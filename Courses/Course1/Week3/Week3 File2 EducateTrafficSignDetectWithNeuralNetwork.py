@@ -56,9 +56,9 @@ try:
 		write_log('"' + message + '" running...')
 
 		if type(paramaters) == type(None):
-			r = function()
+			r = intialize_params_with_random()
 		else:
-			r = function(paramaters)
+			r = intialize_params_with_random(paramaters)
 			
 		write_log('"' + message + '" ok')
 		return r
@@ -77,7 +77,7 @@ try:
 
 		return train_set_x, train_set_y, test_set_x, test_set_y
 
-	def intialize_params(params):
+	def intialize_params_with_random(params):
 		np.random.seed(2) 
 
 		params["W1"] = np.random.randn(params["nh"], params["nx"]) * 0.01
@@ -171,6 +171,7 @@ try:
 		params["dZ2"] = params["A2"] - params["Y"]
 		params["dW2"] = 1/params["m"] * np.dot(params["dZ2"], params["A1"].T)
 		params["db2"] = 1/params["m"] * np.sum(params["dZ2"], axis = 1, keepdims = True)
+
 		params["dZ1"] = np.multiply(np.dot(params["W2"].T, params["dZ2"]), 1 - np.power(params["A1"], 2))
 		params["dW1"] = 1/params["m"] * np.dot(params["dZ1"], params["X"].T)
 		params["db1"] = 1/params["m"] * np.sum(params["dZ1"], axis = 1, keepdims = True)
@@ -263,7 +264,7 @@ try:
 
 		parameters["learning_rate"] = learning_rate
 		
-		parameters = log_and_run(intialize_params, "Initialize W and b params", parameters)
+		parameters = log_and_run(intialize_params_with_random, "Initialize W and b params", parameters)
 
 		parameters["num_iterations"] = 10001
 		parameters = log_and_run(educate, "Educate", parameters)
