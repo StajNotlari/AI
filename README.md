@@ -4,6 +4,8 @@ Kendim için hazırladığım yapay zeka konusunda ders notları ve örnekler.
 ### ./Coursera
 1. Ders notları `hazirlaniyor`
 2. Kurs1 için yeni veri setleri ile yeni örnekler `ok`
+3. Kurs2 için yeni veri setleri ile yeni örnekler `ok`
+4. Kurs3 için yeni veri setleri ile yeni örnekler `hazirlaniyor`
 
    #### Test 
    ```
