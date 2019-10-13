@@ -151,10 +151,8 @@ try:
 		for l in range(1, len(params["n"])):
 			params["Z"+str(l)] = np.dot(params["W"+str(l)], params["A"+str(l-1)]) + params["b"+str(l)]
 			if l == len(params["n"])-1:
-				#print("forwardda " + str(l) + " de sigmoid yaptı. 3 de yapmasını bekliyorum")
 				params["A"+str(l)] = sigmoid(params["Z"+str(l)])
 			else:
-				#print("forwardda " + str(l) + " de relu yaptı. 1 ve 2 de yapmasını bekliyorum")
 				params["A"+str(l)] = relu(params["Z"+str(l)])
 		
 		log_and_run(params_verification, "Params Verification", params)
