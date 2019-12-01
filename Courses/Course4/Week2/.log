@@ -1,0 +1,1080 @@
+2019-10-30 13:33:10,581 - INFO - Starting...
+2019-10-30 13:33:10,596 - INFO - "All Image Resize" running...
+2019-10-30 13:33:10,596 - INFO - "Test/ Images Resize" running...
+2019-10-30 13:33:10,596 - INFO - Resized: ./Data/Test/1.png -> ./Data/Test/Resized/1.png
+2019-10-30 13:33:10,596 - INFO - Resized: ./Data/Test/2.png -> ./Data/Test/Resized/2.png
+2019-10-30 13:33:10,596 - INFO - Resized: ./Data/Test/3.png -> ./Data/Test/Resized/3.png
+2019-10-30 13:33:10,611 - INFO - Resized: ./Data/Test/4.png -> ./Data/Test/Resized/4.png
+2019-10-30 13:33:10,628 - INFO - Resized: ./Data/Test/5.png -> ./Data/Test/Resized/5.png
+2019-10-30 13:33:10,642 - INFO - Resized: ./Data/Test/6.png -> ./Data/Test/Resized/6.png
+2019-10-30 13:33:10,642 - INFO - "Test/ Images Resize" ok
+2019-10-30 13:33:10,642 - INFO - "Train/Positive/ Images Resize" running...
+2019-10-30 13:33:10,642 - INFO - Resized: ./Data/Train/Positive/1539160935061.jpg -> ./Data/Train/Positive/Resized/1539160935061.jpg
+2019-10-30 13:33:10,642 - INFO - Resized: ./Data/Train/Positive/1539160956813.jpg -> ./Data/Train/Positive/Resized/1539160956813.jpg
+2019-10-30 13:33:10,642 - INFO - Resized: ./Data/Train/Positive/1539160979349.jpg -> ./Data/Train/Positive/Resized/1539160979349.jpg
+2019-10-30 13:33:10,658 - INFO - Resized: ./Data/Train/Positive/1539160986301.jpg -> ./Data/Train/Positive/Resized/1539160986301.jpg
+2019-10-30 13:33:10,658 - INFO - Resized: ./Data/Train/Positive/1539161111775.jpg -> ./Data/Train/Positive/Resized/1539161111775.jpg
+2019-10-30 13:33:10,658 - INFO - Resized: ./Data/Train/Positive/1539161117181.jpg -> ./Data/Train/Positive/Resized/1539161117181.jpg
+2019-10-30 13:33:10,658 - INFO - Resized: ./Data/Train/Positive/1539161122581.jpg -> ./Data/Train/Positive/Resized/1539161122581.jpg
+2019-10-30 13:33:10,658 - INFO - Resized: ./Data/Train/Positive/1539161126853.jpg -> ./Data/Train/Positive/Resized/1539161126853.jpg
+2019-10-30 13:33:10,658 - INFO - Resized: ./Data/Train/Positive/1539161131533.jpg -> ./Data/Train/Positive/Resized/1539161131533.jpg
+2019-10-30 13:33:10,674 - INFO - Resized: ./Data/Train/Positive/1539161185980.jpg -> ./Data/Train/Positive/Resized/1539161185980.jpg
+2019-10-30 13:33:10,674 - INFO - Resized: ./Data/Train/Positive/1539161200374.jpg -> ./Data/Train/Positive/Resized/1539161200374.jpg
+2019-10-30 13:33:10,674 - INFO - Resized: ./Data/Train/Positive/1539161212606.jpg -> ./Data/Train/Positive/Resized/1539161212606.jpg
+2019-10-30 13:33:10,674 - INFO - Resized: ./Data/Train/Positive/1539161235222.jpg -> ./Data/Train/Positive/Resized/1539161235222.jpg
+2019-10-30 13:33:10,674 - INFO - Resized: ./Data/Train/Positive/1539161253742.jpg -> ./Data/Train/Positive/Resized/1539161253742.jpg
+2019-10-30 13:33:10,674 - INFO - Resized: ./Data/Train/Positive/1539161265326.jpg -> ./Data/Train/Positive/Resized/1539161265326.jpg
+2019-10-30 13:33:10,674 - INFO - Resized: ./Data/Train/Positive/1539161288054.jpg -> ./Data/Train/Positive/Resized/1539161288054.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161303109.jpg -> ./Data/Train/Positive/Resized/1539161303109.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161328765.jpg -> ./Data/Train/Positive/Resized/1539161328765.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161341550.jpg -> ./Data/Train/Positive/Resized/1539161341550.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161353350.jpg -> ./Data/Train/Positive/Resized/1539161353350.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161395782.jpg -> ./Data/Train/Positive/Resized/1539161395782.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161400277.jpg -> ./Data/Train/Positive/Resized/1539161400277.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161409773.jpg -> ./Data/Train/Positive/Resized/1539161409773.jpg
+2019-10-30 13:33:10,690 - INFO - Resized: ./Data/Train/Positive/1539161445981.jpg -> ./Data/Train/Positive/Resized/1539161445981.jpg
+2019-10-30 13:33:10,706 - INFO - Resized: ./Data/Train/Positive/1539161455812.jpg -> ./Data/Train/Positive/Resized/1539161455812.jpg
+2019-10-30 13:33:10,706 - INFO - Resized: ./Data/Train/Positive/1539161463173.jpg -> ./Data/Train/Positive/Resized/1539161463173.jpg
+2019-10-30 13:33:10,706 - INFO - Resized: ./Data/Train/Positive/1539161485541.jpg -> ./Data/Train/Positive/Resized/1539161485541.jpg
+2019-10-30 13:33:10,706 - INFO - Resized: ./Data/Train/Positive/1539161572348.jpg -> ./Data/Train/Positive/Resized/1539161572348.jpg
+2019-10-30 13:33:10,706 - INFO - Resized: ./Data/Train/Positive/1539161582661.jpg -> ./Data/Train/Positive/Resized/1539161582661.jpg
+2019-10-30 13:33:10,706 - INFO - Resized: ./Data/Train/Positive/1539161589741.jpg -> ./Data/Train/Positive/Resized/1539161589741.jpg
+2019-10-30 13:33:10,706 - INFO - Resized: ./Data/Train/Positive/1539161598221.jpg -> ./Data/Train/Positive/Resized/1539161598221.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161624341.jpg -> ./Data/Train/Positive/Resized/1539161624341.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161632429.jpg -> ./Data/Train/Positive/Resized/1539161632429.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161640973.jpg -> ./Data/Train/Positive/Resized/1539161640973.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161662005.jpg -> ./Data/Train/Positive/Resized/1539161662005.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161688109.jpg -> ./Data/Train/Positive/Resized/1539161688109.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161693892.jpg -> ./Data/Train/Positive/Resized/1539161693892.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161700885.jpg -> ./Data/Train/Positive/Resized/1539161700885.jpg
+2019-10-30 13:33:10,720 - INFO - Resized: ./Data/Train/Positive/1539161716117.jpg -> ./Data/Train/Positive/Resized/1539161716117.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161727556.jpg -> ./Data/Train/Positive/Resized/1539161727556.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161744436.jpg -> ./Data/Train/Positive/Resized/1539161744436.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161749789.jpg -> ./Data/Train/Positive/Resized/1539161749789.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161771500.jpg -> ./Data/Train/Positive/Resized/1539161771500.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161783517.jpg -> ./Data/Train/Positive/Resized/1539161783517.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161793387.jpg -> ./Data/Train/Positive/Resized/1539161793387.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161802404.jpg -> ./Data/Train/Positive/Resized/1539161802404.jpg
+2019-10-30 13:33:10,736 - INFO - Resized: ./Data/Train/Positive/1539161807100.jpg -> ./Data/Train/Positive/Resized/1539161807100.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161815493.jpg -> ./Data/Train/Positive/Resized/1539161815493.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161819885.jpg -> ./Data/Train/Positive/Resized/1539161819885.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161828220.jpg -> ./Data/Train/Positive/Resized/1539161828220.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161841861.jpg -> ./Data/Train/Positive/Resized/1539161841861.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161851332.jpg -> ./Data/Train/Positive/Resized/1539161851332.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161867117.jpg -> ./Data/Train/Positive/Resized/1539161867117.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161870637.jpg -> ./Data/Train/Positive/Resized/1539161870637.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161874837.jpg -> ./Data/Train/Positive/Resized/1539161874837.jpg
+2019-10-30 13:33:10,753 - INFO - Resized: ./Data/Train/Positive/1539161878565.jpg -> ./Data/Train/Positive/Resized/1539161878565.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161886612.jpg -> ./Data/Train/Positive/Resized/1539161886612.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161892156.jpg -> ./Data/Train/Positive/Resized/1539161892156.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161899674.jpg -> ./Data/Train/Positive/Resized/1539161899674.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161902821.jpg -> ./Data/Train/Positive/Resized/1539161902821.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161906068.jpg -> ./Data/Train/Positive/Resized/1539161906068.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161911308.jpg -> ./Data/Train/Positive/Resized/1539161911308.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161914666.jpg -> ./Data/Train/Positive/Resized/1539161914666.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161928021.jpg -> ./Data/Train/Positive/Resized/1539161928021.jpg
+2019-10-30 13:33:10,767 - INFO - Resized: ./Data/Train/Positive/1539161934156.jpg -> ./Data/Train/Positive/Resized/1539161934156.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161940331.jpg -> ./Data/Train/Positive/Resized/1539161940331.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161944885.jpg -> ./Data/Train/Positive/Resized/1539161944885.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161949076.jpg -> ./Data/Train/Positive/Resized/1539161949076.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161952869.jpg -> ./Data/Train/Positive/Resized/1539161952869.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161955869.jpg -> ./Data/Train/Positive/Resized/1539161955869.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161961956.jpg -> ./Data/Train/Positive/Resized/1539161961956.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161966181.jpg -> ./Data/Train/Positive/Resized/1539161966181.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539161978837.jpg -> ./Data/Train/Positive/Resized/1539161978837.jpg
+2019-10-30 13:33:10,783 - INFO - Resized: ./Data/Train/Positive/1539162001044.jpg -> ./Data/Train/Positive/Resized/1539162001044.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162016812.jpg -> ./Data/Train/Positive/Resized/1539162016812.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162022171.jpg -> ./Data/Train/Positive/Resized/1539162022171.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162025476.jpg -> ./Data/Train/Positive/Resized/1539162025476.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162029172.jpg -> ./Data/Train/Positive/Resized/1539162029172.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162032163.jpg -> ./Data/Train/Positive/Resized/1539162032163.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162035133.jpg -> ./Data/Train/Positive/Resized/1539162035133.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162042315.jpg -> ./Data/Train/Positive/Resized/1539162042315.jpg
+2019-10-30 13:33:10,799 - INFO - Resized: ./Data/Train/Positive/1539162047139.jpg -> ./Data/Train/Positive/Resized/1539162047139.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162058949.jpg -> ./Data/Train/Positive/Resized/1539162058949.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162090171.jpg -> ./Data/Train/Positive/Resized/1539162090171.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162095810.jpg -> ./Data/Train/Positive/Resized/1539162095810.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162107403.jpg -> ./Data/Train/Positive/Resized/1539162107403.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162125316.jpg -> ./Data/Train/Positive/Resized/1539162125316.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162128340.jpg -> ./Data/Train/Positive/Resized/1539162128340.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162132204.jpg -> ./Data/Train/Positive/Resized/1539162132204.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162138996.jpg -> ./Data/Train/Positive/Resized/1539162138996.jpg
+2019-10-30 13:33:10,815 - INFO - Resized: ./Data/Train/Positive/1539162142652.jpg -> ./Data/Train/Positive/Resized/1539162142652.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162145485.jpg -> ./Data/Train/Positive/Resized/1539162145485.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162154492.jpg -> ./Data/Train/Positive/Resized/1539162154492.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162158035.jpg -> ./Data/Train/Positive/Resized/1539162158035.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162165956.jpg -> ./Data/Train/Positive/Resized/1539162165956.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162170180.jpg -> ./Data/Train/Positive/Resized/1539162170180.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162173356.jpg -> ./Data/Train/Positive/Resized/1539162173356.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162177035.jpg -> ./Data/Train/Positive/Resized/1539162177035.jpg
+2019-10-30 13:33:10,831 - INFO - Resized: ./Data/Train/Positive/1539162179659.jpg -> ./Data/Train/Positive/Resized/1539162179659.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162182572.jpg -> ./Data/Train/Positive/Resized/1539162182572.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162185916.jpg -> ./Data/Train/Positive/Resized/1539162185916.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162188972.jpg -> ./Data/Train/Positive/Resized/1539162188972.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162200668.jpg -> ./Data/Train/Positive/Resized/1539162200668.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162206004.jpg -> ./Data/Train/Positive/Resized/1539162206004.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162216468.jpg -> ./Data/Train/Positive/Resized/1539162216468.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162220068.jpg -> ./Data/Train/Positive/Resized/1539162220068.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162226059.jpg -> ./Data/Train/Positive/Resized/1539162226059.jpg
+2019-10-30 13:33:10,845 - INFO - Resized: ./Data/Train/Positive/1539162235699.jpg -> ./Data/Train/Positive/Resized/1539162235699.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162242228.jpg -> ./Data/Train/Positive/Resized/1539162242228.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162252908.jpg -> ./Data/Train/Positive/Resized/1539162252908.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162257563.jpg -> ./Data/Train/Positive/Resized/1539162257563.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162266876.jpg -> ./Data/Train/Positive/Resized/1539162266876.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162271068.jpg -> ./Data/Train/Positive/Resized/1539162271068.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162284196.jpg -> ./Data/Train/Positive/Resized/1539162284196.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162292235.jpg -> ./Data/Train/Positive/Resized/1539162292235.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162297372.jpg -> ./Data/Train/Positive/Resized/1539162297372.jpg
+2019-10-30 13:33:10,861 - INFO - Resized: ./Data/Train/Positive/1539162304532.jpg -> ./Data/Train/Positive/Resized/1539162304532.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162322124.jpg -> ./Data/Train/Positive/Resized/1539162322124.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162329771.jpg -> ./Data/Train/Positive/Resized/1539162329771.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162334244.jpg -> ./Data/Train/Positive/Resized/1539162334244.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162339283.jpg -> ./Data/Train/Positive/Resized/1539162339283.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162355347.jpg -> ./Data/Train/Positive/Resized/1539162355347.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162362908.jpg -> ./Data/Train/Positive/Resized/1539162362908.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162369644.jpg -> ./Data/Train/Positive/Resized/1539162369644.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162375196.jpg -> ./Data/Train/Positive/Resized/1539162375196.jpg
+2019-10-30 13:33:10,878 - INFO - Resized: ./Data/Train/Positive/1539162379492.jpg -> ./Data/Train/Positive/Resized/1539162379492.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162390011.jpg -> ./Data/Train/Positive/Resized/1539162390011.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162395996.jpg -> ./Data/Train/Positive/Resized/1539162395996.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162407412.jpg -> ./Data/Train/Positive/Resized/1539162407412.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162413332.jpg -> ./Data/Train/Positive/Resized/1539162413332.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162419340.jpg -> ./Data/Train/Positive/Resized/1539162419340.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162423100.jpg -> ./Data/Train/Positive/Resized/1539162423100.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162432292.jpg -> ./Data/Train/Positive/Resized/1539162432292.jpg
+2019-10-30 13:33:10,892 - INFO - Resized: ./Data/Train/Positive/1539162482405.jpg -> ./Data/Train/Positive/Resized/1539162482405.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162492669.jpg -> ./Data/Train/Positive/Resized/1539162492669.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162502603.jpg -> ./Data/Train/Positive/Resized/1539162502603.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162513652.jpg -> ./Data/Train/Positive/Resized/1539162513652.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162524868.jpg -> ./Data/Train/Positive/Resized/1539162524868.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162536995.jpg -> ./Data/Train/Positive/Resized/1539162536995.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162545587.jpg -> ./Data/Train/Positive/Resized/1539162545587.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162557130.jpg -> ./Data/Train/Positive/Resized/1539162557130.jpg
+2019-10-30 13:33:10,908 - INFO - Resized: ./Data/Train/Positive/1539162564716.jpg -> ./Data/Train/Positive/Resized/1539162564716.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162569339.jpg -> ./Data/Train/Positive/Resized/1539162569339.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162576716.jpg -> ./Data/Train/Positive/Resized/1539162576716.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162581796.jpg -> ./Data/Train/Positive/Resized/1539162581796.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162588819.jpg -> ./Data/Train/Positive/Resized/1539162588819.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162596596.jpg -> ./Data/Train/Positive/Resized/1539162596596.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162606332.jpg -> ./Data/Train/Positive/Resized/1539162606332.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162613100.jpg -> ./Data/Train/Positive/Resized/1539162613100.jpg
+2019-10-30 13:33:10,924 - INFO - Resized: ./Data/Train/Positive/1539162617123.jpg -> ./Data/Train/Positive/Resized/1539162617123.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162622235.jpg -> ./Data/Train/Positive/Resized/1539162622235.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162627907.jpg -> ./Data/Train/Positive/Resized/1539162627907.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162727940.jpg -> ./Data/Train/Positive/Resized/1539162727940.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162738299.jpg -> ./Data/Train/Positive/Resized/1539162738299.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162749428.jpg -> ./Data/Train/Positive/Resized/1539162749428.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162829860.jpg -> ./Data/Train/Positive/Resized/1539162829860.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162834331.jpg -> ./Data/Train/Positive/Resized/1539162834331.jpg
+2019-10-30 13:33:10,940 - INFO - Resized: ./Data/Train/Positive/1539162839180.jpg -> ./Data/Train/Positive/Resized/1539162839180.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539162848947.jpg -> ./Data/Train/Positive/Resized/1539162848947.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539162920251.jpg -> ./Data/Train/Positive/Resized/1539162920251.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539162931059.jpg -> ./Data/Train/Positive/Resized/1539162931059.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539162955554.jpg -> ./Data/Train/Positive/Resized/1539162955554.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539162986876.jpg -> ./Data/Train/Positive/Resized/1539162986876.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539163380977.jpg -> ./Data/Train/Positive/Resized/1539163380977.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539163386587.jpg -> ./Data/Train/Positive/Resized/1539163386587.jpg
+2019-10-30 13:33:10,956 - INFO - Resized: ./Data/Train/Positive/1539163398817.jpg -> ./Data/Train/Positive/Resized/1539163398817.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539163532307.jpg -> ./Data/Train/Positive/Resized/1539163532307.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539163570691.jpg -> ./Data/Train/Positive/Resized/1539163570691.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539163575362.jpg -> ./Data/Train/Positive/Resized/1539163575362.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539163581083.jpg -> ./Data/Train/Positive/Resized/1539163581083.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539163686547.jpg -> ./Data/Train/Positive/Resized/1539163686547.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539168786422.jpg -> ./Data/Train/Positive/Resized/1539168786422.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539168797214.jpg -> ./Data/Train/Positive/Resized/1539168797214.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539168804942.jpg -> ./Data/Train/Positive/Resized/1539168804942.jpg
+2019-10-30 13:33:10,970 - INFO - Resized: ./Data/Train/Positive/1539168810942.jpg -> ./Data/Train/Positive/Resized/1539168810942.jpg
+2019-10-30 13:33:10,986 - INFO - Resized: ./Data/Train/Positive/1539168816686.jpg -> ./Data/Train/Positive/Resized/1539168816686.jpg
+2019-10-30 13:33:10,986 - INFO - Resized: ./Data/Train/Positive/1539168822022.jpg -> ./Data/Train/Positive/Resized/1539168822022.jpg
+2019-10-30 13:33:10,986 - INFO - Resized: ./Data/Train/Positive/1539168829342.jpg -> ./Data/Train/Positive/Resized/1539168829342.jpg
+2019-10-30 13:33:10,986 - INFO - Resized: ./Data/Train/Positive/1539168838166.jpg -> ./Data/Train/Positive/Resized/1539168838166.jpg
+2019-10-30 13:33:10,986 - INFO - Resized: ./Data/Train/Positive/1539168845894.jpg -> ./Data/Train/Positive/Resized/1539168845894.jpg
+2019-10-30 13:33:10,986 - INFO - Resized: ./Data/Train/Positive/1539168856062.jpg -> ./Data/Train/Positive/Resized/1539168856062.jpg
+2019-10-30 13:33:10,986 - INFO - Resized: ./Data/Train/Positive/1539168862918.jpg -> ./Data/Train/Positive/Resized/1539168862918.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539168869854.jpg -> ./Data/Train/Positive/Resized/1539168869854.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539168898453.jpg -> ./Data/Train/Positive/Resized/1539168898453.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539168981941.jpg -> ./Data/Train/Positive/Resized/1539168981941.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539168987798.jpg -> ./Data/Train/Positive/Resized/1539168987798.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539169007742.jpg -> ./Data/Train/Positive/Resized/1539169007742.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539169017126.jpg -> ./Data/Train/Positive/Resized/1539169017126.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539169033046.jpg -> ./Data/Train/Positive/Resized/1539169033046.jpg
+2019-10-30 13:33:11,003 - INFO - Resized: ./Data/Train/Positive/1539169041414.jpg -> ./Data/Train/Positive/Resized/1539169041414.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169054797.jpg -> ./Data/Train/Positive/Resized/1539169054797.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169057342.jpg -> ./Data/Train/Positive/Resized/1539169057342.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169074751.jpg -> ./Data/Train/Positive/Resized/1539169074751.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169086871.jpg -> ./Data/Train/Positive/Resized/1539169086871.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169093598.jpg -> ./Data/Train/Positive/Resized/1539169093598.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169100582.jpg -> ./Data/Train/Positive/Resized/1539169100582.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169116797.jpg -> ./Data/Train/Positive/Resized/1539169116797.jpg
+2019-10-30 13:33:11,017 - INFO - Resized: ./Data/Train/Positive/1539169128741.jpg -> ./Data/Train/Positive/Resized/1539169128741.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169138206.jpg -> ./Data/Train/Positive/Resized/1539169138206.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169146926.jpg -> ./Data/Train/Positive/Resized/1539169146926.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169156934.jpg -> ./Data/Train/Positive/Resized/1539169156934.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169162901.jpg -> ./Data/Train/Positive/Resized/1539169162901.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169170318.jpg -> ./Data/Train/Positive/Resized/1539169170318.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169185663.jpg -> ./Data/Train/Positive/Resized/1539169185663.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169193582.jpg -> ./Data/Train/Positive/Resized/1539169193582.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169214286.jpg -> ./Data/Train/Positive/Resized/1539169214286.jpg
+2019-10-30 13:33:11,033 - INFO - Resized: ./Data/Train/Positive/1539169235278.jpg -> ./Data/Train/Positive/Resized/1539169235278.jpg
+2019-10-30 13:33:11,049 - INFO - Resized: ./Data/Train/Positive/1539169238854.jpg -> ./Data/Train/Positive/Resized/1539169238854.jpg
+2019-10-30 13:33:11,049 - INFO - Resized: ./Data/Train/Positive/1539169245214.jpg -> ./Data/Train/Positive/Resized/1539169245214.jpg
+2019-10-30 13:33:11,049 - INFO - Resized: ./Data/Train/Positive/1539169255526.jpg -> ./Data/Train/Positive/Resized/1539169255526.jpg
+2019-10-30 13:33:11,049 - INFO - Resized: ./Data/Train/Positive/1539169275470.jpg -> ./Data/Train/Positive/Resized/1539169275470.jpg
+2019-10-30 13:33:11,049 - INFO - Resized: ./Data/Train/Positive/1539169282590.jpg -> ./Data/Train/Positive/Resized/1539169282590.jpg
+2019-10-30 13:33:11,049 - INFO - Resized: ./Data/Train/Positive/1539169289054.jpg -> ./Data/Train/Positive/Resized/1539169289054.jpg
+2019-10-30 13:33:11,049 - INFO - Resized: ./Data/Train/Positive/1539169305245.jpg -> ./Data/Train/Positive/Resized/1539169305245.jpg
+2019-10-30 13:33:11,065 - INFO - Resized: ./Data/Train/Positive/1539169315214.jpg -> ./Data/Train/Positive/Resized/1539169315214.jpg
+2019-10-30 13:33:11,065 - INFO - Resized: ./Data/Train/Positive/1539169322941.jpg -> ./Data/Train/Positive/Resized/1539169322941.jpg
+2019-10-30 13:33:11,065 - INFO - Resized: ./Data/Train/Positive/1539169330405.jpg -> ./Data/Train/Positive/Resized/1539169330405.jpg
+2019-10-30 13:33:11,065 - INFO - Resized: ./Data/Train/Positive/1539169345758.jpg -> ./Data/Train/Positive/Resized/1539169345758.jpg
+2019-10-30 13:33:11,065 - INFO - Resized: ./Data/Train/Positive/1539169352582.jpg -> ./Data/Train/Positive/Resized/1539169352582.jpg
+2019-10-30 13:33:11,065 - INFO - Resized: ./Data/Train/Positive/1539169359949.jpg -> ./Data/Train/Positive/Resized/1539169359949.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169364982.jpg -> ./Data/Train/Positive/Resized/1539169364982.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169374486.jpg -> ./Data/Train/Positive/Resized/1539169374486.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169456230.jpg -> ./Data/Train/Positive/Resized/1539169456230.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169465686.jpg -> ./Data/Train/Positive/Resized/1539169465686.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169482516.jpg -> ./Data/Train/Positive/Resized/1539169482516.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169487534.jpg -> ./Data/Train/Positive/Resized/1539169487534.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169496430.jpg -> ./Data/Train/Positive/Resized/1539169496430.jpg
+2019-10-30 13:33:11,081 - INFO - Resized: ./Data/Train/Positive/1539169524509.jpg -> ./Data/Train/Positive/Resized/1539169524509.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169534029.jpg -> ./Data/Train/Positive/Resized/1539169534029.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169540317.jpg -> ./Data/Train/Positive/Resized/1539169540317.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169546501.jpg -> ./Data/Train/Positive/Resized/1539169546501.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169553869.jpg -> ./Data/Train/Positive/Resized/1539169553869.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169571901.jpg -> ./Data/Train/Positive/Resized/1539169571901.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169578388.jpg -> ./Data/Train/Positive/Resized/1539169578388.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169588293.jpg -> ./Data/Train/Positive/Resized/1539169588293.jpg
+2019-10-30 13:33:11,096 - INFO - Resized: ./Data/Train/Positive/1539169596318.jpg -> ./Data/Train/Positive/Resized/1539169596318.jpg
+2019-10-30 13:33:11,111 - INFO - Resized: ./Data/Train/Positive/1539169602542.jpg -> ./Data/Train/Positive/Resized/1539169602542.jpg
+2019-10-30 13:33:11,111 - INFO - Resized: ./Data/Train/Positive/1539169607742.jpg -> ./Data/Train/Positive/Resized/1539169607742.jpg
+2019-10-30 13:33:11,111 - INFO - Resized: ./Data/Train/Positive/1539169613365.jpg -> ./Data/Train/Positive/Resized/1539169613365.jpg
+2019-10-30 13:33:11,111 - INFO - Resized: ./Data/Train/Positive/1539169627557.jpg -> ./Data/Train/Positive/Resized/1539169627557.jpg
+2019-10-30 13:33:11,111 - INFO - Resized: ./Data/Train/Positive/1539169649038.jpg -> ./Data/Train/Positive/Resized/1539169649038.jpg
+2019-10-30 13:33:11,111 - INFO - Resized: ./Data/Train/Positive/1539169657549.jpg -> ./Data/Train/Positive/Resized/1539169657549.jpg
+2019-10-30 13:33:11,111 - INFO - Resized: ./Data/Train/Positive/1539169677246.jpg -> ./Data/Train/Positive/Resized/1539169677246.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169683453.jpg -> ./Data/Train/Positive/Resized/1539169683453.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169693253.jpg -> ./Data/Train/Positive/Resized/1539169693253.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169709108.jpg -> ./Data/Train/Positive/Resized/1539169709108.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169715764.jpg -> ./Data/Train/Positive/Resized/1539169715764.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169722437.jpg -> ./Data/Train/Positive/Resized/1539169722437.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169733381.jpg -> ./Data/Train/Positive/Resized/1539169733381.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169744284.jpg -> ./Data/Train/Positive/Resized/1539169744284.jpg
+2019-10-30 13:33:11,128 - INFO - Resized: ./Data/Train/Positive/1539169750877.jpg -> ./Data/Train/Positive/Resized/1539169750877.jpg
+2019-10-30 13:33:11,144 - INFO - Resized: ./Data/Train/Positive/1539169760372.jpg -> ./Data/Train/Positive/Resized/1539169760372.jpg
+2019-10-30 13:33:11,144 - INFO - Resized: ./Data/Train/Positive/1539169768637.jpg -> ./Data/Train/Positive/Resized/1539169768637.jpg
+2019-10-30 13:33:11,144 - INFO - Resized: ./Data/Train/Positive/1539169780317.jpg -> ./Data/Train/Positive/Resized/1539169780317.jpg
+2019-10-30 13:33:11,144 - INFO - Resized: ./Data/Train/Positive/1539169790124.jpg -> ./Data/Train/Positive/Resized/1539169790124.jpg
+2019-10-30 13:33:11,144 - INFO - Resized: ./Data/Train/Positive/1539169799461.jpg -> ./Data/Train/Positive/Resized/1539169799461.jpg
+2019-10-30 13:33:11,144 - INFO - Resized: ./Data/Train/Positive/1539169806884.jpg -> ./Data/Train/Positive/Resized/1539169806884.jpg
+2019-10-30 13:33:11,144 - INFO - Resized: ./Data/Train/Positive/1539169813300.jpg -> ./Data/Train/Positive/Resized/1539169813300.jpg
+2019-10-30 13:33:11,158 - INFO - Resized: ./Data/Train/Positive/1539169856262.jpg -> ./Data/Train/Positive/Resized/1539169856262.jpg
+2019-10-30 13:33:11,158 - INFO - Resized: ./Data/Train/Positive/1539169862861.jpg -> ./Data/Train/Positive/Resized/1539169862861.jpg
+2019-10-30 13:33:11,158 - INFO - Resized: ./Data/Train/Positive/1539169871700.jpg -> ./Data/Train/Positive/Resized/1539169871700.jpg
+2019-10-30 13:33:11,158 - INFO - Resized: ./Data/Train/Positive/1539169879053.jpg -> ./Data/Train/Positive/Resized/1539169879053.jpg
+2019-10-30 13:33:11,158 - INFO - Resized: ./Data/Train/Positive/1539169886700.jpg -> ./Data/Train/Positive/Resized/1539169886700.jpg
+2019-10-30 13:33:11,158 - INFO - Resized: ./Data/Train/Positive/1539169920108.jpg -> ./Data/Train/Positive/Resized/1539169920108.jpg
+2019-10-30 13:33:11,158 - INFO - Resized: ./Data/Train/Positive/1539169935044.jpg -> ./Data/Train/Positive/Resized/1539169935044.jpg
+2019-10-30 13:33:11,174 - INFO - Resized: ./Data/Train/Positive/1539169940653.jpg -> ./Data/Train/Positive/Resized/1539169940653.jpg
+2019-10-30 13:33:11,174 - INFO - Resized: ./Data/Train/Positive/1539169949750.jpg -> ./Data/Train/Positive/Resized/1539169949750.jpg
+2019-10-30 13:33:11,174 - INFO - Resized: ./Data/Train/Positive/1539169955515.jpg -> ./Data/Train/Positive/Resized/1539169955515.jpg
+2019-10-30 13:33:11,174 - INFO - Resized: ./Data/Train/Positive/1539169963972.jpg -> ./Data/Train/Positive/Resized/1539169963972.jpg
+2019-10-30 13:33:11,174 - INFO - "Train/Positive/ Images Resize" ok
+2019-10-30 13:33:11,174 - INFO - "Train/Negative/ Images Resize" running...
+2019-10-30 13:33:11,190 - INFO - Resized: ./Data/Train/Negative/1.png -> ./Data/Train/Negative/Resized/1.png
+2019-10-30 13:33:11,206 - INFO - Resized: ./Data/Train/Negative/10.png -> ./Data/Train/Negative/Resized/10.png
+2019-10-30 13:33:11,221 - INFO - Resized: ./Data/Train/Negative/100.png -> ./Data/Train/Negative/Resized/100.png
+2019-10-30 13:33:11,236 - INFO - Resized: ./Data/Train/Negative/101.png -> ./Data/Train/Negative/Resized/101.png
+2019-10-30 13:33:11,253 - INFO - Resized: ./Data/Train/Negative/102.png -> ./Data/Train/Negative/Resized/102.png
+2019-10-30 13:33:11,283 - INFO - Resized: ./Data/Train/Negative/103.png -> ./Data/Train/Negative/Resized/103.png
+2019-10-30 13:33:11,299 - INFO - Resized: ./Data/Train/Negative/104.png -> ./Data/Train/Negative/Resized/104.png
+2019-10-30 13:33:11,299 - INFO - Resized: ./Data/Train/Negative/105.png -> ./Data/Train/Negative/Resized/105.png
+2019-10-30 13:33:11,331 - INFO - Resized: ./Data/Train/Negative/106.png -> ./Data/Train/Negative/Resized/106.png
+2019-10-30 13:33:11,346 - INFO - Resized: ./Data/Train/Negative/107.png -> ./Data/Train/Negative/Resized/107.png
+2019-10-30 13:33:11,361 - INFO - Resized: ./Data/Train/Negative/108.png -> ./Data/Train/Negative/Resized/108.png
+2019-10-30 13:33:11,394 - INFO - Resized: ./Data/Train/Negative/109.png -> ./Data/Train/Negative/Resized/109.png
+2019-10-30 13:33:11,408 - INFO - Resized: ./Data/Train/Negative/11.png -> ./Data/Train/Negative/Resized/11.png
+2019-10-30 13:33:11,440 - INFO - Resized: ./Data/Train/Negative/110.png -> ./Data/Train/Negative/Resized/110.png
+2019-10-30 13:33:11,456 - INFO - Resized: ./Data/Train/Negative/111.png -> ./Data/Train/Negative/Resized/111.png
+2019-10-30 13:33:11,471 - INFO - Resized: ./Data/Train/Negative/112.png -> ./Data/Train/Negative/Resized/112.png
+2019-10-30 13:33:11,486 - INFO - Resized: ./Data/Train/Negative/113.png -> ./Data/Train/Negative/Resized/113.png
+2019-10-30 13:33:11,519 - INFO - Resized: ./Data/Train/Negative/114.png -> ./Data/Train/Negative/Resized/114.png
+2019-10-30 13:33:11,549 - INFO - Resized: ./Data/Train/Negative/115.png -> ./Data/Train/Negative/Resized/115.png
+2019-10-30 13:33:11,549 - INFO - Resized: ./Data/Train/Negative/116.png -> ./Data/Train/Negative/Resized/116.png
+2019-10-30 13:33:11,549 - INFO - Resized: ./Data/Train/Negative/117.png -> ./Data/Train/Negative/Resized/117.png
+2019-10-30 13:33:11,565 - INFO - Resized: ./Data/Train/Negative/118.png -> ./Data/Train/Negative/Resized/118.png
+2019-10-30 13:33:11,596 - INFO - Resized: ./Data/Train/Negative/119.png -> ./Data/Train/Negative/Resized/119.png
+2019-10-30 13:33:11,611 - INFO - Resized: ./Data/Train/Negative/12.png -> ./Data/Train/Negative/Resized/12.png
+2019-10-30 13:33:11,644 - INFO - Resized: ./Data/Train/Negative/120.png -> ./Data/Train/Negative/Resized/120.png
+2019-10-30 13:33:11,658 - INFO - Resized: ./Data/Train/Negative/13.png -> ./Data/Train/Negative/Resized/13.png
+2019-10-30 13:33:11,674 - INFO - Resized: ./Data/Train/Negative/14.png -> ./Data/Train/Negative/Resized/14.png
+2019-10-30 13:33:11,706 - INFO - Resized: ./Data/Train/Negative/15.png -> ./Data/Train/Negative/Resized/15.png
+2019-10-30 13:33:11,721 - INFO - Resized: ./Data/Train/Negative/16.png -> ./Data/Train/Negative/Resized/16.png
+2019-10-30 13:33:11,736 - INFO - Resized: ./Data/Train/Negative/17.png -> ./Data/Train/Negative/Resized/17.png
+2019-10-30 13:33:11,769 - INFO - Resized: ./Data/Train/Negative/18.png -> ./Data/Train/Negative/Resized/18.png
+2019-10-30 13:33:11,783 - INFO - Resized: ./Data/Train/Negative/19.png -> ./Data/Train/Negative/Resized/19.png
+2019-10-30 13:33:11,799 - INFO - Resized: ./Data/Train/Negative/2.png -> ./Data/Train/Negative/Resized/2.png
+2019-10-30 13:33:11,799 - INFO - Resized: ./Data/Train/Negative/20.png -> ./Data/Train/Negative/Resized/20.png
+2019-10-30 13:33:11,799 - INFO - Resized: ./Data/Train/Negative/21.png -> ./Data/Train/Negative/Resized/21.png
+2019-10-30 13:33:11,831 - INFO - Resized: ./Data/Train/Negative/22.png -> ./Data/Train/Negative/Resized/22.png
+2019-10-30 13:33:11,846 - INFO - Resized: ./Data/Train/Negative/23.png -> ./Data/Train/Negative/Resized/23.png
+2019-10-30 13:33:11,861 - INFO - Resized: ./Data/Train/Negative/24.png -> ./Data/Train/Negative/Resized/24.png
+2019-10-30 13:33:11,878 - INFO - Resized: ./Data/Train/Negative/25.png -> ./Data/Train/Negative/Resized/25.png
+2019-10-30 13:33:11,908 - INFO - Resized: ./Data/Train/Negative/26.png -> ./Data/Train/Negative/Resized/26.png
+2019-10-30 13:33:11,924 - INFO - Resized: ./Data/Train/Negative/27.png -> ./Data/Train/Negative/Resized/27.png
+2019-10-30 13:33:11,956 - INFO - Resized: ./Data/Train/Negative/28.png -> ./Data/Train/Negative/Resized/28.png
+2019-10-30 13:33:11,971 - INFO - Resized: ./Data/Train/Negative/29.png -> ./Data/Train/Negative/Resized/29.png
+2019-10-30 13:33:11,986 - INFO - Resized: ./Data/Train/Negative/3.png -> ./Data/Train/Negative/Resized/3.png
+2019-10-30 13:33:12,017 - INFO - Resized: ./Data/Train/Negative/30.png -> ./Data/Train/Negative/Resized/30.png
+2019-10-30 13:33:12,033 - INFO - Resized: ./Data/Train/Negative/31.png -> ./Data/Train/Negative/Resized/31.png
+2019-10-30 13:33:12,065 - INFO - Resized: ./Data/Train/Negative/32.png -> ./Data/Train/Negative/Resized/32.png
+2019-10-30 13:33:12,096 - INFO - Resized: ./Data/Train/Negative/33.png -> ./Data/Train/Negative/Resized/33.png
+2019-10-30 13:33:12,096 - INFO - Resized: ./Data/Train/Negative/34.png -> ./Data/Train/Negative/Resized/34.png
+2019-10-30 13:33:12,112 - INFO - Resized: ./Data/Train/Negative/35.png -> ./Data/Train/Negative/Resized/35.png
+2019-10-30 13:33:12,128 - INFO - Resized: ./Data/Train/Negative/36.png -> ./Data/Train/Negative/Resized/36.png
+2019-10-30 13:33:12,158 - INFO - Resized: ./Data/Train/Negative/37.png -> ./Data/Train/Negative/Resized/37.png
+2019-10-30 13:33:12,174 - INFO - Resized: ./Data/Train/Negative/38.png -> ./Data/Train/Negative/Resized/38.png
+2019-10-30 13:33:12,206 - INFO - Resized: ./Data/Train/Negative/39.png -> ./Data/Train/Negative/Resized/39.png
+2019-10-30 13:33:12,221 - INFO - Resized: ./Data/Train/Negative/4.png -> ./Data/Train/Negative/Resized/4.png
+2019-10-30 13:33:12,252 - INFO - Resized: ./Data/Train/Negative/40.png -> ./Data/Train/Negative/Resized/40.png
+2019-10-30 13:33:12,276 - INFO - Resized: ./Data/Train/Negative/41.png -> ./Data/Train/Negative/Resized/41.png
+2019-10-30 13:33:12,302 - INFO - Resized: ./Data/Train/Negative/42.png -> ./Data/Train/Negative/Resized/42.png
+2019-10-30 13:33:12,316 - INFO - Resized: ./Data/Train/Negative/43.png -> ./Data/Train/Negative/Resized/43.png
+2019-10-30 13:33:12,332 - INFO - Resized: ./Data/Train/Negative/44.png -> ./Data/Train/Negative/Resized/44.png
+2019-10-30 13:33:12,364 - INFO - Resized: ./Data/Train/Negative/45.png -> ./Data/Train/Negative/Resized/45.png
+2019-10-30 13:33:12,364 - INFO - Resized: ./Data/Train/Negative/46.png -> ./Data/Train/Negative/Resized/46.png
+2019-10-30 13:33:12,380 - INFO - Resized: ./Data/Train/Negative/47.png -> ./Data/Train/Negative/Resized/47.png
+2019-10-30 13:33:12,411 - INFO - Resized: ./Data/Train/Negative/48.png -> ./Data/Train/Negative/Resized/48.png
+2019-10-30 13:33:12,420 - INFO - Resized: ./Data/Train/Negative/49.png -> ./Data/Train/Negative/Resized/49.png
+2019-10-30 13:33:12,443 - INFO - Resized: ./Data/Train/Negative/5.png -> ./Data/Train/Negative/Resized/5.png
+2019-10-30 13:33:12,450 - INFO - Resized: ./Data/Train/Negative/50.png -> ./Data/Train/Negative/Resized/50.png
+2019-10-30 13:33:12,486 - INFO - Resized: ./Data/Train/Negative/51.png -> ./Data/Train/Negative/Resized/51.png
+2019-10-30 13:33:12,507 - INFO - Resized: ./Data/Train/Negative/52.png -> ./Data/Train/Negative/Resized/52.png
+2019-10-30 13:33:12,530 - INFO - Resized: ./Data/Train/Negative/53.png -> ./Data/Train/Negative/Resized/53.png
+2019-10-30 13:33:12,552 - INFO - Resized: ./Data/Train/Negative/54.png -> ./Data/Train/Negative/Resized/54.png
+2019-10-30 13:33:12,575 - INFO - Resized: ./Data/Train/Negative/55.png -> ./Data/Train/Negative/Resized/55.png
+2019-10-30 13:33:12,598 - INFO - Resized: ./Data/Train/Negative/56.png -> ./Data/Train/Negative/Resized/56.png
+2019-10-30 13:33:12,617 - INFO - Resized: ./Data/Train/Negative/57.png -> ./Data/Train/Negative/Resized/57.png
+2019-10-30 13:33:12,638 - INFO - Resized: ./Data/Train/Negative/58.png -> ./Data/Train/Negative/Resized/58.png
+2019-10-30 13:33:12,661 - INFO - Resized: ./Data/Train/Negative/59.png -> ./Data/Train/Negative/Resized/59.png
+2019-10-30 13:33:12,683 - INFO - Resized: ./Data/Train/Negative/6.png -> ./Data/Train/Negative/Resized/6.png
+2019-10-30 13:33:12,686 - INFO - Resized: ./Data/Train/Negative/60.png -> ./Data/Train/Negative/Resized/60.png
+2019-10-30 13:33:12,688 - INFO - Resized: ./Data/Train/Negative/61.png -> ./Data/Train/Negative/Resized/61.png
+2019-10-30 13:33:12,710 - INFO - Resized: ./Data/Train/Negative/62.png -> ./Data/Train/Negative/Resized/62.png
+2019-10-30 13:33:12,736 - INFO - Resized: ./Data/Train/Negative/63.png -> ./Data/Train/Negative/Resized/63.png
+2019-10-30 13:33:12,759 - INFO - Resized: ./Data/Train/Negative/64.png -> ./Data/Train/Negative/Resized/64.png
+2019-10-30 13:33:12,782 - INFO - Resized: ./Data/Train/Negative/65.png -> ./Data/Train/Negative/Resized/65.png
+2019-10-30 13:33:12,805 - INFO - Resized: ./Data/Train/Negative/66.png -> ./Data/Train/Negative/Resized/66.png
+2019-10-30 13:33:12,826 - INFO - Resized: ./Data/Train/Negative/67.png -> ./Data/Train/Negative/Resized/67.png
+2019-10-30 13:33:12,839 - INFO - Resized: ./Data/Train/Negative/68.png -> ./Data/Train/Negative/Resized/68.png
+2019-10-30 13:33:12,865 - INFO - Resized: ./Data/Train/Negative/69.png -> ./Data/Train/Negative/Resized/69.png
+2019-10-30 13:33:12,882 - INFO - Resized: ./Data/Train/Negative/7.png -> ./Data/Train/Negative/Resized/7.png
+2019-10-30 13:33:12,907 - INFO - Resized: ./Data/Train/Negative/70.png -> ./Data/Train/Negative/Resized/70.png
+2019-10-30 13:33:12,931 - INFO - Resized: ./Data/Train/Negative/71.png -> ./Data/Train/Negative/Resized/71.png
+2019-10-30 13:33:12,957 - INFO - Resized: ./Data/Train/Negative/72.png -> ./Data/Train/Negative/Resized/72.png
+2019-10-30 13:33:12,974 - INFO - Resized: ./Data/Train/Negative/73.png -> ./Data/Train/Negative/Resized/73.png
+2019-10-30 13:33:12,997 - INFO - Resized: ./Data/Train/Negative/74.png -> ./Data/Train/Negative/Resized/74.png
+2019-10-30 13:33:13,002 - INFO - Resized: ./Data/Train/Negative/75.png -> ./Data/Train/Negative/Resized/75.png
+2019-10-30 13:33:13,025 - INFO - Resized: ./Data/Train/Negative/76.png -> ./Data/Train/Negative/Resized/76.png
+2019-10-30 13:33:13,048 - INFO - Resized: ./Data/Train/Negative/77.png -> ./Data/Train/Negative/Resized/77.png
+2019-10-30 13:33:13,072 - INFO - Resized: ./Data/Train/Negative/78.png -> ./Data/Train/Negative/Resized/78.png
+2019-10-30 13:33:13,085 - INFO - Resized: ./Data/Train/Negative/79.png -> ./Data/Train/Negative/Resized/79.png
+2019-10-30 13:33:13,088 - INFO - Resized: ./Data/Train/Negative/8.png -> ./Data/Train/Negative/Resized/8.png
+2019-10-30 13:33:13,111 - INFO - Resized: ./Data/Train/Negative/80.png -> ./Data/Train/Negative/Resized/80.png
+2019-10-30 13:33:13,134 - INFO - Resized: ./Data/Train/Negative/81.png -> ./Data/Train/Negative/Resized/81.png
+2019-10-30 13:33:13,157 - INFO - Resized: ./Data/Train/Negative/82.png -> ./Data/Train/Negative/Resized/82.png
+2019-10-30 13:33:13,180 - INFO - Resized: ./Data/Train/Negative/83.png -> ./Data/Train/Negative/Resized/83.png
+2019-10-30 13:33:13,206 - INFO - Resized: ./Data/Train/Negative/84.png -> ./Data/Train/Negative/Resized/84.png
+2019-10-30 13:33:13,229 - INFO - Resized: ./Data/Train/Negative/85.png -> ./Data/Train/Negative/Resized/85.png
+2019-10-30 13:33:13,233 - INFO - Resized: ./Data/Train/Negative/86.png -> ./Data/Train/Negative/Resized/86.png
+2019-10-30 13:33:13,236 - INFO - Resized: ./Data/Train/Negative/87.png -> ./Data/Train/Negative/Resized/87.png
+2019-10-30 13:33:13,237 - INFO - Resized: ./Data/Train/Negative/88.png -> ./Data/Train/Negative/Resized/88.png
+2019-10-30 13:33:13,242 - INFO - Resized: ./Data/Train/Negative/89.png -> ./Data/Train/Negative/Resized/89.png
+2019-10-30 13:33:13,263 - INFO - Resized: ./Data/Train/Negative/9.png -> ./Data/Train/Negative/Resized/9.png
+2019-10-30 13:33:13,275 - INFO - Resized: ./Data/Train/Negative/90.png -> ./Data/Train/Negative/Resized/90.png
+2019-10-30 13:33:13,296 - INFO - Resized: ./Data/Train/Negative/91.png -> ./Data/Train/Negative/Resized/91.png
+2019-10-30 13:33:13,299 - INFO - Resized: ./Data/Train/Negative/92.png -> ./Data/Train/Negative/Resized/92.png
+2019-10-30 13:33:13,322 - INFO - Resized: ./Data/Train/Negative/93.png -> ./Data/Train/Negative/Resized/93.png
+2019-10-30 13:33:13,345 - INFO - Resized: ./Data/Train/Negative/94.png -> ./Data/Train/Negative/Resized/94.png
+2019-10-30 13:33:13,365 - INFO - Resized: ./Data/Train/Negative/95.png -> ./Data/Train/Negative/Resized/95.png
+2019-10-30 13:33:13,387 - INFO - Resized: ./Data/Train/Negative/96.png -> ./Data/Train/Negative/Resized/96.png
+2019-10-30 13:33:13,407 - INFO - Resized: ./Data/Train/Negative/97.png -> ./Data/Train/Negative/Resized/97.png
+2019-10-30 13:33:13,428 - INFO - Resized: ./Data/Train/Negative/98.png -> ./Data/Train/Negative/Resized/98.png
+2019-10-30 13:33:13,450 - INFO - Resized: ./Data/Train/Negative/99.png -> ./Data/Train/Negative/Resized/99.png
+2019-10-30 13:33:13,453 - INFO - "Train/Negative/ Images Resize" ok
+2019-10-30 13:33:13,453 - INFO - "All Image Resize" ok
+2019-10-30 13:33:13,453 - INFO - "Format Resized Images" running...
+2019-10-30 13:33:13,457 - INFO - "Format Resized Images" ok
+2019-10-30 13:33:13,457 - INFO - "Save Dataset" running...
+2019-10-30 13:33:13,464 - INFO - "Save Dataset" ok
+2019-10-30 13:33:13,464 - INFO - Success
+2019-10-30 13:34:54,447 - INFO - Starting...
+2019-10-30 13:34:54,447 - INFO - "All Image Resize" running...
+2019-10-30 13:34:54,447 - INFO - "Test/ Images Resize" running...
+2019-10-30 13:34:54,447 - INFO - Resized: ./Data/Test/1.png -> ./Data/Test/Resized/1.png
+2019-10-30 13:34:54,447 - INFO - Resized: ./Data/Test/2.png -> ./Data/Test/Resized/2.png
+2019-10-30 13:34:54,447 - INFO - Resized: ./Data/Test/3.png -> ./Data/Test/Resized/3.png
+2019-10-30 13:34:54,479 - INFO - Resized: ./Data/Test/4.png -> ./Data/Test/Resized/4.png
+2019-10-30 13:34:54,494 - INFO - Resized: ./Data/Test/5.png -> ./Data/Test/Resized/5.png
+2019-10-30 13:34:54,494 - INFO - Resized: ./Data/Test/6.png -> ./Data/Test/Resized/6.png
+2019-10-30 13:34:54,494 - INFO - "Test/ Images Resize" ok
+2019-10-30 13:34:54,494 - INFO - "Train/Positive/ Images Resize" running...
+2019-10-30 13:34:54,494 - INFO - Resized: ./Data/Train/Positive/1539160935061.jpg -> ./Data/Train/Positive/Resized/1539160935061.jpg
+2019-10-30 13:34:54,494 - INFO - Resized: ./Data/Train/Positive/1539160956813.jpg -> ./Data/Train/Positive/Resized/1539160956813.jpg
+2019-10-30 13:34:54,494 - INFO - Resized: ./Data/Train/Positive/1539160979349.jpg -> ./Data/Train/Positive/Resized/1539160979349.jpg
+2019-10-30 13:34:54,494 - INFO - Resized: ./Data/Train/Positive/1539160986301.jpg -> ./Data/Train/Positive/Resized/1539160986301.jpg
+2019-10-30 13:34:54,494 - INFO - Resized: ./Data/Train/Positive/1539161111775.jpg -> ./Data/Train/Positive/Resized/1539161111775.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161117181.jpg -> ./Data/Train/Positive/Resized/1539161117181.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161122581.jpg -> ./Data/Train/Positive/Resized/1539161122581.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161126853.jpg -> ./Data/Train/Positive/Resized/1539161126853.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161131533.jpg -> ./Data/Train/Positive/Resized/1539161131533.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161185980.jpg -> ./Data/Train/Positive/Resized/1539161185980.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161200374.jpg -> ./Data/Train/Positive/Resized/1539161200374.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161212606.jpg -> ./Data/Train/Positive/Resized/1539161212606.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161235222.jpg -> ./Data/Train/Positive/Resized/1539161235222.jpg
+2019-10-30 13:34:54,510 - INFO - Resized: ./Data/Train/Positive/1539161253742.jpg -> ./Data/Train/Positive/Resized/1539161253742.jpg
+2019-10-30 13:34:54,529 - INFO - Resized: ./Data/Train/Positive/1539161265326.jpg -> ./Data/Train/Positive/Resized/1539161265326.jpg
+2019-10-30 13:34:54,533 - INFO - Resized: ./Data/Train/Positive/1539161288054.jpg -> ./Data/Train/Positive/Resized/1539161288054.jpg
+2019-10-30 13:34:54,536 - INFO - Resized: ./Data/Train/Positive/1539161303109.jpg -> ./Data/Train/Positive/Resized/1539161303109.jpg
+2019-10-30 13:34:54,540 - INFO - Resized: ./Data/Train/Positive/1539161328765.jpg -> ./Data/Train/Positive/Resized/1539161328765.jpg
+2019-10-30 13:34:54,543 - INFO - Resized: ./Data/Train/Positive/1539161341550.jpg -> ./Data/Train/Positive/Resized/1539161341550.jpg
+2019-10-30 13:34:54,546 - INFO - Resized: ./Data/Train/Positive/1539161353350.jpg -> ./Data/Train/Positive/Resized/1539161353350.jpg
+2019-10-30 13:34:54,549 - INFO - Resized: ./Data/Train/Positive/1539161395782.jpg -> ./Data/Train/Positive/Resized/1539161395782.jpg
+2019-10-30 13:34:54,552 - INFO - Resized: ./Data/Train/Positive/1539161400277.jpg -> ./Data/Train/Positive/Resized/1539161400277.jpg
+2019-10-30 13:34:54,555 - INFO - Resized: ./Data/Train/Positive/1539161409773.jpg -> ./Data/Train/Positive/Resized/1539161409773.jpg
+2019-10-30 13:34:54,558 - INFO - Resized: ./Data/Train/Positive/1539161445981.jpg -> ./Data/Train/Positive/Resized/1539161445981.jpg
+2019-10-30 13:34:54,561 - INFO - Resized: ./Data/Train/Positive/1539161455812.jpg -> ./Data/Train/Positive/Resized/1539161455812.jpg
+2019-10-30 13:34:54,563 - INFO - Resized: ./Data/Train/Positive/1539161463173.jpg -> ./Data/Train/Positive/Resized/1539161463173.jpg
+2019-10-30 13:34:54,566 - INFO - Resized: ./Data/Train/Positive/1539161485541.jpg -> ./Data/Train/Positive/Resized/1539161485541.jpg
+2019-10-30 13:34:54,569 - INFO - Resized: ./Data/Train/Positive/1539161572348.jpg -> ./Data/Train/Positive/Resized/1539161572348.jpg
+2019-10-30 13:34:54,571 - INFO - Resized: ./Data/Train/Positive/1539161582661.jpg -> ./Data/Train/Positive/Resized/1539161582661.jpg
+2019-10-30 13:34:54,572 - INFO - Resized: ./Data/Train/Positive/1539161589741.jpg -> ./Data/Train/Positive/Resized/1539161589741.jpg
+2019-10-30 13:34:54,575 - INFO - Resized: ./Data/Train/Positive/1539161598221.jpg -> ./Data/Train/Positive/Resized/1539161598221.jpg
+2019-10-30 13:34:54,578 - INFO - Resized: ./Data/Train/Positive/1539161624341.jpg -> ./Data/Train/Positive/Resized/1539161624341.jpg
+2019-10-30 13:34:54,578 - INFO - Resized: ./Data/Train/Positive/1539161632429.jpg -> ./Data/Train/Positive/Resized/1539161632429.jpg
+2019-10-30 13:34:54,581 - INFO - Resized: ./Data/Train/Positive/1539161640973.jpg -> ./Data/Train/Positive/Resized/1539161640973.jpg
+2019-10-30 13:34:54,584 - INFO - Resized: ./Data/Train/Positive/1539161662005.jpg -> ./Data/Train/Positive/Resized/1539161662005.jpg
+2019-10-30 13:34:54,585 - INFO - Resized: ./Data/Train/Positive/1539161688109.jpg -> ./Data/Train/Positive/Resized/1539161688109.jpg
+2019-10-30 13:34:54,586 - INFO - Resized: ./Data/Train/Positive/1539161693892.jpg -> ./Data/Train/Positive/Resized/1539161693892.jpg
+2019-10-30 13:34:54,588 - INFO - Resized: ./Data/Train/Positive/1539161700885.jpg -> ./Data/Train/Positive/Resized/1539161700885.jpg
+2019-10-30 13:34:54,591 - INFO - Resized: ./Data/Train/Positive/1539161716117.jpg -> ./Data/Train/Positive/Resized/1539161716117.jpg
+2019-10-30 13:34:54,592 - INFO - Resized: ./Data/Train/Positive/1539161727556.jpg -> ./Data/Train/Positive/Resized/1539161727556.jpg
+2019-10-30 13:34:54,595 - INFO - Resized: ./Data/Train/Positive/1539161744436.jpg -> ./Data/Train/Positive/Resized/1539161744436.jpg
+2019-10-30 13:34:54,596 - INFO - Resized: ./Data/Train/Positive/1539161749789.jpg -> ./Data/Train/Positive/Resized/1539161749789.jpg
+2019-10-30 13:34:54,598 - INFO - Resized: ./Data/Train/Positive/1539161771500.jpg -> ./Data/Train/Positive/Resized/1539161771500.jpg
+2019-10-30 13:34:54,599 - INFO - Resized: ./Data/Train/Positive/1539161783517.jpg -> ./Data/Train/Positive/Resized/1539161783517.jpg
+2019-10-30 13:34:54,601 - INFO - Resized: ./Data/Train/Positive/1539161793387.jpg -> ./Data/Train/Positive/Resized/1539161793387.jpg
+2019-10-30 13:34:54,604 - INFO - Resized: ./Data/Train/Positive/1539161802404.jpg -> ./Data/Train/Positive/Resized/1539161802404.jpg
+2019-10-30 13:34:54,605 - INFO - Resized: ./Data/Train/Positive/1539161807100.jpg -> ./Data/Train/Positive/Resized/1539161807100.jpg
+2019-10-30 13:34:54,607 - INFO - Resized: ./Data/Train/Positive/1539161815493.jpg -> ./Data/Train/Positive/Resized/1539161815493.jpg
+2019-10-30 13:34:54,608 - INFO - Resized: ./Data/Train/Positive/1539161819885.jpg -> ./Data/Train/Positive/Resized/1539161819885.jpg
+2019-10-30 13:34:54,611 - INFO - Resized: ./Data/Train/Positive/1539161828220.jpg -> ./Data/Train/Positive/Resized/1539161828220.jpg
+2019-10-30 13:34:54,614 - INFO - Resized: ./Data/Train/Positive/1539161841861.jpg -> ./Data/Train/Positive/Resized/1539161841861.jpg
+2019-10-30 13:34:54,615 - INFO - Resized: ./Data/Train/Positive/1539161851332.jpg -> ./Data/Train/Positive/Resized/1539161851332.jpg
+2019-10-30 13:34:54,618 - INFO - Resized: ./Data/Train/Positive/1539161867117.jpg -> ./Data/Train/Positive/Resized/1539161867117.jpg
+2019-10-30 13:34:54,619 - INFO - Resized: ./Data/Train/Positive/1539161870637.jpg -> ./Data/Train/Positive/Resized/1539161870637.jpg
+2019-10-30 13:34:54,621 - INFO - Resized: ./Data/Train/Positive/1539161874837.jpg -> ./Data/Train/Positive/Resized/1539161874837.jpg
+2019-10-30 13:34:54,622 - INFO - Resized: ./Data/Train/Positive/1539161878565.jpg -> ./Data/Train/Positive/Resized/1539161878565.jpg
+2019-10-30 13:34:54,625 - INFO - Resized: ./Data/Train/Positive/1539161886612.jpg -> ./Data/Train/Positive/Resized/1539161886612.jpg
+2019-10-30 13:34:54,627 - INFO - Resized: ./Data/Train/Positive/1539161892156.jpg -> ./Data/Train/Positive/Resized/1539161892156.jpg
+2019-10-30 13:34:54,628 - INFO - Resized: ./Data/Train/Positive/1539161899674.jpg -> ./Data/Train/Positive/Resized/1539161899674.jpg
+2019-10-30 13:34:54,631 - INFO - Resized: ./Data/Train/Positive/1539161902821.jpg -> ./Data/Train/Positive/Resized/1539161902821.jpg
+2019-10-30 13:34:54,632 - INFO - Resized: ./Data/Train/Positive/1539161906068.jpg -> ./Data/Train/Positive/Resized/1539161906068.jpg
+2019-10-30 13:34:54,634 - INFO - Resized: ./Data/Train/Positive/1539161911308.jpg -> ./Data/Train/Positive/Resized/1539161911308.jpg
+2019-10-30 13:34:54,637 - INFO - Resized: ./Data/Train/Positive/1539161914666.jpg -> ./Data/Train/Positive/Resized/1539161914666.jpg
+2019-10-30 13:34:54,638 - INFO - Resized: ./Data/Train/Positive/1539161928021.jpg -> ./Data/Train/Positive/Resized/1539161928021.jpg
+2019-10-30 13:34:54,640 - INFO - Resized: ./Data/Train/Positive/1539161934156.jpg -> ./Data/Train/Positive/Resized/1539161934156.jpg
+2019-10-30 13:34:54,641 - INFO - Resized: ./Data/Train/Positive/1539161940331.jpg -> ./Data/Train/Positive/Resized/1539161940331.jpg
+2019-10-30 13:34:54,644 - INFO - Resized: ./Data/Train/Positive/1539161944885.jpg -> ./Data/Train/Positive/Resized/1539161944885.jpg
+2019-10-30 13:34:54,645 - INFO - Resized: ./Data/Train/Positive/1539161949076.jpg -> ./Data/Train/Positive/Resized/1539161949076.jpg
+2019-10-30 13:34:54,648 - INFO - Resized: ./Data/Train/Positive/1539161952869.jpg -> ./Data/Train/Positive/Resized/1539161952869.jpg
+2019-10-30 13:34:54,650 - INFO - Resized: ./Data/Train/Positive/1539161955869.jpg -> ./Data/Train/Positive/Resized/1539161955869.jpg
+2019-10-30 13:34:54,651 - INFO - Resized: ./Data/Train/Positive/1539161961956.jpg -> ./Data/Train/Positive/Resized/1539161961956.jpg
+2019-10-30 13:34:54,653 - INFO - Resized: ./Data/Train/Positive/1539161966181.jpg -> ./Data/Train/Positive/Resized/1539161966181.jpg
+2019-10-30 13:34:54,654 - INFO - Resized: ./Data/Train/Positive/1539161978837.jpg -> ./Data/Train/Positive/Resized/1539161978837.jpg
+2019-10-30 13:34:54,657 - INFO - Resized: ./Data/Train/Positive/1539162001044.jpg -> ./Data/Train/Positive/Resized/1539162001044.jpg
+2019-10-30 13:34:54,658 - INFO - Resized: ./Data/Train/Positive/1539162016812.jpg -> ./Data/Train/Positive/Resized/1539162016812.jpg
+2019-10-30 13:34:54,661 - INFO - Resized: ./Data/Train/Positive/1539162022171.jpg -> ./Data/Train/Positive/Resized/1539162022171.jpg
+2019-10-30 13:34:54,663 - INFO - Resized: ./Data/Train/Positive/1539162025476.jpg -> ./Data/Train/Positive/Resized/1539162025476.jpg
+2019-10-30 13:34:54,664 - INFO - Resized: ./Data/Train/Positive/1539162029172.jpg -> ./Data/Train/Positive/Resized/1539162029172.jpg
+2019-10-30 13:34:54,667 - INFO - Resized: ./Data/Train/Positive/1539162032163.jpg -> ./Data/Train/Positive/Resized/1539162032163.jpg
+2019-10-30 13:34:54,668 - INFO - Resized: ./Data/Train/Positive/1539162035133.jpg -> ./Data/Train/Positive/Resized/1539162035133.jpg
+2019-10-30 13:34:54,671 - INFO - Resized: ./Data/Train/Positive/1539162042315.jpg -> ./Data/Train/Positive/Resized/1539162042315.jpg
+2019-10-30 13:34:54,671 - INFO - Resized: ./Data/Train/Positive/1539162047139.jpg -> ./Data/Train/Positive/Resized/1539162047139.jpg
+2019-10-30 13:34:54,674 - INFO - Resized: ./Data/Train/Positive/1539162058949.jpg -> ./Data/Train/Positive/Resized/1539162058949.jpg
+2019-10-30 13:34:54,676 - INFO - Resized: ./Data/Train/Positive/1539162090171.jpg -> ./Data/Train/Positive/Resized/1539162090171.jpg
+2019-10-30 13:34:54,677 - INFO - Resized: ./Data/Train/Positive/1539162095810.jpg -> ./Data/Train/Positive/Resized/1539162095810.jpg
+2019-10-30 13:34:54,680 - INFO - Resized: ./Data/Train/Positive/1539162107403.jpg -> ./Data/Train/Positive/Resized/1539162107403.jpg
+2019-10-30 13:34:54,681 - INFO - Resized: ./Data/Train/Positive/1539162125316.jpg -> ./Data/Train/Positive/Resized/1539162125316.jpg
+2019-10-30 13:34:54,683 - INFO - Resized: ./Data/Train/Positive/1539162128340.jpg -> ./Data/Train/Positive/Resized/1539162128340.jpg
+2019-10-30 13:34:54,684 - INFO - Resized: ./Data/Train/Positive/1539162132204.jpg -> ./Data/Train/Positive/Resized/1539162132204.jpg
+2019-10-30 13:34:54,687 - INFO - Resized: ./Data/Train/Positive/1539162138996.jpg -> ./Data/Train/Positive/Resized/1539162138996.jpg
+2019-10-30 13:34:54,688 - INFO - Resized: ./Data/Train/Positive/1539162142652.jpg -> ./Data/Train/Positive/Resized/1539162142652.jpg
+2019-10-30 13:34:54,690 - INFO - Resized: ./Data/Train/Positive/1539162145485.jpg -> ./Data/Train/Positive/Resized/1539162145485.jpg
+2019-10-30 13:34:54,691 - INFO - Resized: ./Data/Train/Positive/1539162154492.jpg -> ./Data/Train/Positive/Resized/1539162154492.jpg
+2019-10-30 13:34:54,694 - INFO - Resized: ./Data/Train/Positive/1539162158035.jpg -> ./Data/Train/Positive/Resized/1539162158035.jpg
+2019-10-30 13:34:54,696 - INFO - Resized: ./Data/Train/Positive/1539162165956.jpg -> ./Data/Train/Positive/Resized/1539162165956.jpg
+2019-10-30 13:34:54,697 - INFO - Resized: ./Data/Train/Positive/1539162170180.jpg -> ./Data/Train/Positive/Resized/1539162170180.jpg
+2019-10-30 13:34:54,700 - INFO - Resized: ./Data/Train/Positive/1539162173356.jpg -> ./Data/Train/Positive/Resized/1539162173356.jpg
+2019-10-30 13:34:54,701 - INFO - Resized: ./Data/Train/Positive/1539162177035.jpg -> ./Data/Train/Positive/Resized/1539162177035.jpg
+2019-10-30 13:34:54,703 - INFO - Resized: ./Data/Train/Positive/1539162179659.jpg -> ./Data/Train/Positive/Resized/1539162179659.jpg
+2019-10-30 13:34:54,704 - INFO - Resized: ./Data/Train/Positive/1539162182572.jpg -> ./Data/Train/Positive/Resized/1539162182572.jpg
+2019-10-30 13:34:54,707 - INFO - Resized: ./Data/Train/Positive/1539162185916.jpg -> ./Data/Train/Positive/Resized/1539162185916.jpg
+2019-10-30 13:34:54,709 - INFO - Resized: ./Data/Train/Positive/1539162188972.jpg -> ./Data/Train/Positive/Resized/1539162188972.jpg
+2019-10-30 13:34:54,710 - INFO - Resized: ./Data/Train/Positive/1539162200668.jpg -> ./Data/Train/Positive/Resized/1539162200668.jpg
+2019-10-30 13:34:54,713 - INFO - Resized: ./Data/Train/Positive/1539162206004.jpg -> ./Data/Train/Positive/Resized/1539162206004.jpg
+2019-10-30 13:34:54,713 - INFO - Resized: ./Data/Train/Positive/1539162216468.jpg -> ./Data/Train/Positive/Resized/1539162216468.jpg
+2019-10-30 13:34:54,716 - INFO - Resized: ./Data/Train/Positive/1539162220068.jpg -> ./Data/Train/Positive/Resized/1539162220068.jpg
+2019-10-30 13:34:54,717 - INFO - Resized: ./Data/Train/Positive/1539162226059.jpg -> ./Data/Train/Positive/Resized/1539162226059.jpg
+2019-10-30 13:34:54,720 - INFO - Resized: ./Data/Train/Positive/1539162235699.jpg -> ./Data/Train/Positive/Resized/1539162235699.jpg
+2019-10-30 13:34:54,721 - INFO - Resized: ./Data/Train/Positive/1539162242228.jpg -> ./Data/Train/Positive/Resized/1539162242228.jpg
+2019-10-30 13:34:54,723 - INFO - Resized: ./Data/Train/Positive/1539162252908.jpg -> ./Data/Train/Positive/Resized/1539162252908.jpg
+2019-10-30 13:34:54,724 - INFO - Resized: ./Data/Train/Positive/1539162257563.jpg -> ./Data/Train/Positive/Resized/1539162257563.jpg
+2019-10-30 13:34:54,726 - INFO - Resized: ./Data/Train/Positive/1539162266876.jpg -> ./Data/Train/Positive/Resized/1539162266876.jpg
+2019-10-30 13:34:54,729 - INFO - Resized: ./Data/Train/Positive/1539162271068.jpg -> ./Data/Train/Positive/Resized/1539162271068.jpg
+2019-10-30 13:34:54,730 - INFO - Resized: ./Data/Train/Positive/1539162284196.jpg -> ./Data/Train/Positive/Resized/1539162284196.jpg
+2019-10-30 13:34:54,733 - INFO - Resized: ./Data/Train/Positive/1539162292235.jpg -> ./Data/Train/Positive/Resized/1539162292235.jpg
+2019-10-30 13:34:54,734 - INFO - Resized: ./Data/Train/Positive/1539162297372.jpg -> ./Data/Train/Positive/Resized/1539162297372.jpg
+2019-10-30 13:34:54,736 - INFO - Resized: ./Data/Train/Positive/1539162304532.jpg -> ./Data/Train/Positive/Resized/1539162304532.jpg
+2019-10-30 13:34:54,737 - INFO - Resized: ./Data/Train/Positive/1539162322124.jpg -> ./Data/Train/Positive/Resized/1539162322124.jpg
+2019-10-30 13:34:54,740 - INFO - Resized: ./Data/Train/Positive/1539162329771.jpg -> ./Data/Train/Positive/Resized/1539162329771.jpg
+2019-10-30 13:34:54,742 - INFO - Resized: ./Data/Train/Positive/1539162334244.jpg -> ./Data/Train/Positive/Resized/1539162334244.jpg
+2019-10-30 13:34:54,743 - INFO - Resized: ./Data/Train/Positive/1539162339283.jpg -> ./Data/Train/Positive/Resized/1539162339283.jpg
+2019-10-30 13:34:54,746 - INFO - Resized: ./Data/Train/Positive/1539162355347.jpg -> ./Data/Train/Positive/Resized/1539162355347.jpg
+2019-10-30 13:34:54,747 - INFO - Resized: ./Data/Train/Positive/1539162362908.jpg -> ./Data/Train/Positive/Resized/1539162362908.jpg
+2019-10-30 13:34:54,750 - INFO - Resized: ./Data/Train/Positive/1539162369644.jpg -> ./Data/Train/Positive/Resized/1539162369644.jpg
+2019-10-30 13:34:54,752 - INFO - Resized: ./Data/Train/Positive/1539162375196.jpg -> ./Data/Train/Positive/Resized/1539162375196.jpg
+2019-10-30 13:34:54,755 - INFO - Resized: ./Data/Train/Positive/1539162379492.jpg -> ./Data/Train/Positive/Resized/1539162379492.jpg
+2019-10-30 13:34:54,756 - INFO - Resized: ./Data/Train/Positive/1539162390011.jpg -> ./Data/Train/Positive/Resized/1539162390011.jpg
+2019-10-30 13:34:54,757 - INFO - Resized: ./Data/Train/Positive/1539162395996.jpg -> ./Data/Train/Positive/Resized/1539162395996.jpg
+2019-10-30 13:34:54,759 - INFO - Resized: ./Data/Train/Positive/1539162407412.jpg -> ./Data/Train/Positive/Resized/1539162407412.jpg
+2019-10-30 13:34:54,760 - INFO - Resized: ./Data/Train/Positive/1539162413332.jpg -> ./Data/Train/Positive/Resized/1539162413332.jpg
+2019-10-30 13:34:54,763 - INFO - Resized: ./Data/Train/Positive/1539162419340.jpg -> ./Data/Train/Positive/Resized/1539162419340.jpg
+2019-10-30 13:34:54,765 - INFO - Resized: ./Data/Train/Positive/1539162423100.jpg -> ./Data/Train/Positive/Resized/1539162423100.jpg
+2019-10-30 13:34:54,766 - INFO - Resized: ./Data/Train/Positive/1539162432292.jpg -> ./Data/Train/Positive/Resized/1539162432292.jpg
+2019-10-30 13:34:54,769 - INFO - Resized: ./Data/Train/Positive/1539162482405.jpg -> ./Data/Train/Positive/Resized/1539162482405.jpg
+2019-10-30 13:34:54,770 - INFO - Resized: ./Data/Train/Positive/1539162492669.jpg -> ./Data/Train/Positive/Resized/1539162492669.jpg
+2019-10-30 13:34:54,772 - INFO - Resized: ./Data/Train/Positive/1539162502603.jpg -> ./Data/Train/Positive/Resized/1539162502603.jpg
+2019-10-30 13:34:54,773 - INFO - Resized: ./Data/Train/Positive/1539162513652.jpg -> ./Data/Train/Positive/Resized/1539162513652.jpg
+2019-10-30 13:34:54,776 - INFO - Resized: ./Data/Train/Positive/1539162524868.jpg -> ./Data/Train/Positive/Resized/1539162524868.jpg
+2019-10-30 13:34:54,778 - INFO - Resized: ./Data/Train/Positive/1539162536995.jpg -> ./Data/Train/Positive/Resized/1539162536995.jpg
+2019-10-30 13:34:54,779 - INFO - Resized: ./Data/Train/Positive/1539162545587.jpg -> ./Data/Train/Positive/Resized/1539162545587.jpg
+2019-10-30 13:34:54,782 - INFO - Resized: ./Data/Train/Positive/1539162557130.jpg -> ./Data/Train/Positive/Resized/1539162557130.jpg
+2019-10-30 13:34:54,782 - INFO - Resized: ./Data/Train/Positive/1539162564716.jpg -> ./Data/Train/Positive/Resized/1539162564716.jpg
+2019-10-30 13:34:54,785 - INFO - Resized: ./Data/Train/Positive/1539162569339.jpg -> ./Data/Train/Positive/Resized/1539162569339.jpg
+2019-10-30 13:34:54,786 - INFO - Resized: ./Data/Train/Positive/1539162576716.jpg -> ./Data/Train/Positive/Resized/1539162576716.jpg
+2019-10-30 13:34:54,788 - INFO - Resized: ./Data/Train/Positive/1539162581796.jpg -> ./Data/Train/Positive/Resized/1539162581796.jpg
+2019-10-30 13:34:54,789 - INFO - Resized: ./Data/Train/Positive/1539162588819.jpg -> ./Data/Train/Positive/Resized/1539162588819.jpg
+2019-10-30 13:34:54,792 - INFO - Resized: ./Data/Train/Positive/1539162596596.jpg -> ./Data/Train/Positive/Resized/1539162596596.jpg
+2019-10-30 13:34:54,793 - INFO - Resized: ./Data/Train/Positive/1539162606332.jpg -> ./Data/Train/Positive/Resized/1539162606332.jpg
+2019-10-30 13:34:54,796 - INFO - Resized: ./Data/Train/Positive/1539162613100.jpg -> ./Data/Train/Positive/Resized/1539162613100.jpg
+2019-10-30 13:34:54,798 - INFO - Resized: ./Data/Train/Positive/1539162617123.jpg -> ./Data/Train/Positive/Resized/1539162617123.jpg
+2019-10-30 13:34:54,799 - INFO - Resized: ./Data/Train/Positive/1539162622235.jpg -> ./Data/Train/Positive/Resized/1539162622235.jpg
+2019-10-30 13:34:54,799 - INFO - Resized: ./Data/Train/Positive/1539162627907.jpg -> ./Data/Train/Positive/Resized/1539162627907.jpg
+2019-10-30 13:34:54,802 - INFO - Resized: ./Data/Train/Positive/1539162727940.jpg -> ./Data/Train/Positive/Resized/1539162727940.jpg
+2019-10-30 13:34:54,803 - INFO - Resized: ./Data/Train/Positive/1539162738299.jpg -> ./Data/Train/Positive/Resized/1539162738299.jpg
+2019-10-30 13:34:54,805 - INFO - Resized: ./Data/Train/Positive/1539162749428.jpg -> ./Data/Train/Positive/Resized/1539162749428.jpg
+2019-10-30 13:34:54,808 - INFO - Resized: ./Data/Train/Positive/1539162829860.jpg -> ./Data/Train/Positive/Resized/1539162829860.jpg
+2019-10-30 13:34:54,809 - INFO - Resized: ./Data/Train/Positive/1539162834331.jpg -> ./Data/Train/Positive/Resized/1539162834331.jpg
+2019-10-30 13:34:54,812 - INFO - Resized: ./Data/Train/Positive/1539162839180.jpg -> ./Data/Train/Positive/Resized/1539162839180.jpg
+2019-10-30 13:34:54,813 - INFO - Resized: ./Data/Train/Positive/1539162848947.jpg -> ./Data/Train/Positive/Resized/1539162848947.jpg
+2019-10-30 13:34:54,815 - INFO - Resized: ./Data/Train/Positive/1539162920251.jpg -> ./Data/Train/Positive/Resized/1539162920251.jpg
+2019-10-30 13:34:54,816 - INFO - Resized: ./Data/Train/Positive/1539162931059.jpg -> ./Data/Train/Positive/Resized/1539162931059.jpg
+2019-10-30 13:34:54,819 - INFO - Resized: ./Data/Train/Positive/1539162955554.jpg -> ./Data/Train/Positive/Resized/1539162955554.jpg
+2019-10-30 13:34:54,821 - INFO - Resized: ./Data/Train/Positive/1539162986876.jpg -> ./Data/Train/Positive/Resized/1539162986876.jpg
+2019-10-30 13:34:54,822 - INFO - Resized: ./Data/Train/Positive/1539163380977.jpg -> ./Data/Train/Positive/Resized/1539163380977.jpg
+2019-10-30 13:34:54,825 - INFO - Resized: ./Data/Train/Positive/1539163386587.jpg -> ./Data/Train/Positive/Resized/1539163386587.jpg
+2019-10-30 13:34:54,825 - INFO - Resized: ./Data/Train/Positive/1539163398817.jpg -> ./Data/Train/Positive/Resized/1539163398817.jpg
+2019-10-30 13:34:54,828 - INFO - Resized: ./Data/Train/Positive/1539163532307.jpg -> ./Data/Train/Positive/Resized/1539163532307.jpg
+2019-10-30 13:34:54,831 - INFO - Resized: ./Data/Train/Positive/1539163570691.jpg -> ./Data/Train/Positive/Resized/1539163570691.jpg
+2019-10-30 13:34:54,832 - INFO - Resized: ./Data/Train/Positive/1539163575362.jpg -> ./Data/Train/Positive/Resized/1539163575362.jpg
+2019-10-30 13:34:54,834 - INFO - Resized: ./Data/Train/Positive/1539163581083.jpg -> ./Data/Train/Positive/Resized/1539163581083.jpg
+2019-10-30 13:34:54,835 - INFO - Resized: ./Data/Train/Positive/1539163686547.jpg -> ./Data/Train/Positive/Resized/1539163686547.jpg
+2019-10-30 13:34:54,838 - INFO - Resized: ./Data/Train/Positive/1539168786422.jpg -> ./Data/Train/Positive/Resized/1539168786422.jpg
+2019-10-30 13:34:54,839 - INFO - Resized: ./Data/Train/Positive/1539168797214.jpg -> ./Data/Train/Positive/Resized/1539168797214.jpg
+2019-10-30 13:34:54,842 - INFO - Resized: ./Data/Train/Positive/1539168804942.jpg -> ./Data/Train/Positive/Resized/1539168804942.jpg
+2019-10-30 13:34:54,844 - INFO - Resized: ./Data/Train/Positive/1539168810942.jpg -> ./Data/Train/Positive/Resized/1539168810942.jpg
+2019-10-30 13:34:54,845 - INFO - Resized: ./Data/Train/Positive/1539168816686.jpg -> ./Data/Train/Positive/Resized/1539168816686.jpg
+2019-10-30 13:34:54,846 - INFO - Resized: ./Data/Train/Positive/1539168822022.jpg -> ./Data/Train/Positive/Resized/1539168822022.jpg
+2019-10-30 13:34:54,849 - INFO - Resized: ./Data/Train/Positive/1539168829342.jpg -> ./Data/Train/Positive/Resized/1539168829342.jpg
+2019-10-30 13:34:54,851 - INFO - Resized: ./Data/Train/Positive/1539168838166.jpg -> ./Data/Train/Positive/Resized/1539168838166.jpg
+2019-10-30 13:34:54,854 - INFO - Resized: ./Data/Train/Positive/1539168845894.jpg -> ./Data/Train/Positive/Resized/1539168845894.jpg
+2019-10-30 13:34:54,855 - INFO - Resized: ./Data/Train/Positive/1539168856062.jpg -> ./Data/Train/Positive/Resized/1539168856062.jpg
+2019-10-30 13:34:54,857 - INFO - Resized: ./Data/Train/Positive/1539168862918.jpg -> ./Data/Train/Positive/Resized/1539168862918.jpg
+2019-10-30 13:34:54,858 - INFO - Resized: ./Data/Train/Positive/1539168869854.jpg -> ./Data/Train/Positive/Resized/1539168869854.jpg
+2019-10-30 13:34:54,861 - INFO - Resized: ./Data/Train/Positive/1539168898453.jpg -> ./Data/Train/Positive/Resized/1539168898453.jpg
+2019-10-30 13:34:54,861 - INFO - Resized: ./Data/Train/Positive/1539168981941.jpg -> ./Data/Train/Positive/Resized/1539168981941.jpg
+2019-10-30 13:34:54,864 - INFO - Resized: ./Data/Train/Positive/1539168987798.jpg -> ./Data/Train/Positive/Resized/1539168987798.jpg
+2019-10-30 13:34:54,865 - INFO - Resized: ./Data/Train/Positive/1539169007742.jpg -> ./Data/Train/Positive/Resized/1539169007742.jpg
+2019-10-30 13:34:54,868 - INFO - Resized: ./Data/Train/Positive/1539169017126.jpg -> ./Data/Train/Positive/Resized/1539169017126.jpg
+2019-10-30 13:34:54,868 - INFO - Resized: ./Data/Train/Positive/1539169033046.jpg -> ./Data/Train/Positive/Resized/1539169033046.jpg
+2019-10-30 13:34:54,871 - INFO - Resized: ./Data/Train/Positive/1539169041414.jpg -> ./Data/Train/Positive/Resized/1539169041414.jpg
+2019-10-30 13:34:54,872 - INFO - Resized: ./Data/Train/Positive/1539169054797.jpg -> ./Data/Train/Positive/Resized/1539169054797.jpg
+2019-10-30 13:34:54,875 - INFO - Resized: ./Data/Train/Positive/1539169057342.jpg -> ./Data/Train/Positive/Resized/1539169057342.jpg
+2019-10-30 13:34:54,877 - INFO - Resized: ./Data/Train/Positive/1539169074751.jpg -> ./Data/Train/Positive/Resized/1539169074751.jpg
+2019-10-30 13:34:54,878 - INFO - Resized: ./Data/Train/Positive/1539169086871.jpg -> ./Data/Train/Positive/Resized/1539169086871.jpg
+2019-10-30 13:34:54,880 - INFO - Resized: ./Data/Train/Positive/1539169093598.jpg -> ./Data/Train/Positive/Resized/1539169093598.jpg
+2019-10-30 13:34:54,881 - INFO - Resized: ./Data/Train/Positive/1539169100582.jpg -> ./Data/Train/Positive/Resized/1539169100582.jpg
+2019-10-30 13:34:54,884 - INFO - Resized: ./Data/Train/Positive/1539169116797.jpg -> ./Data/Train/Positive/Resized/1539169116797.jpg
+2019-10-30 13:34:54,885 - INFO - Resized: ./Data/Train/Positive/1539169128741.jpg -> ./Data/Train/Positive/Resized/1539169128741.jpg
+2019-10-30 13:34:54,888 - INFO - Resized: ./Data/Train/Positive/1539169138206.jpg -> ./Data/Train/Positive/Resized/1539169138206.jpg
+2019-10-30 13:34:54,888 - INFO - Resized: ./Data/Train/Positive/1539169146926.jpg -> ./Data/Train/Positive/Resized/1539169146926.jpg
+2019-10-30 13:34:54,891 - INFO - Resized: ./Data/Train/Positive/1539169156934.jpg -> ./Data/Train/Positive/Resized/1539169156934.jpg
+2019-10-30 13:34:54,892 - INFO - Resized: ./Data/Train/Positive/1539169162901.jpg -> ./Data/Train/Positive/Resized/1539169162901.jpg
+2019-10-30 13:34:54,894 - INFO - Resized: ./Data/Train/Positive/1539169170318.jpg -> ./Data/Train/Positive/Resized/1539169170318.jpg
+2019-10-30 13:34:54,898 - INFO - Resized: ./Data/Train/Positive/1539169185663.jpg -> ./Data/Train/Positive/Resized/1539169185663.jpg
+2019-10-30 13:34:54,900 - INFO - Resized: ./Data/Train/Positive/1539169193582.jpg -> ./Data/Train/Positive/Resized/1539169193582.jpg
+2019-10-30 13:34:54,901 - INFO - Resized: ./Data/Train/Positive/1539169214286.jpg -> ./Data/Train/Positive/Resized/1539169214286.jpg
+2019-10-30 13:34:54,904 - INFO - Resized: ./Data/Train/Positive/1539169235278.jpg -> ./Data/Train/Positive/Resized/1539169235278.jpg
+2019-10-30 13:34:54,904 - INFO - Resized: ./Data/Train/Positive/1539169238854.jpg -> ./Data/Train/Positive/Resized/1539169238854.jpg
+2019-10-30 13:34:54,907 - INFO - Resized: ./Data/Train/Positive/1539169245214.jpg -> ./Data/Train/Positive/Resized/1539169245214.jpg
+2019-10-30 13:34:54,908 - INFO - Resized: ./Data/Train/Positive/1539169255526.jpg -> ./Data/Train/Positive/Resized/1539169255526.jpg
+2019-10-30 13:34:54,911 - INFO - Resized: ./Data/Train/Positive/1539169275470.jpg -> ./Data/Train/Positive/Resized/1539169275470.jpg
+2019-10-30 13:34:54,914 - INFO - Resized: ./Data/Train/Positive/1539169282590.jpg -> ./Data/Train/Positive/Resized/1539169282590.jpg
+2019-10-30 13:34:54,915 - INFO - Resized: ./Data/Train/Positive/1539169289054.jpg -> ./Data/Train/Positive/Resized/1539169289054.jpg
+2019-10-30 13:34:54,917 - INFO - Resized: ./Data/Train/Positive/1539169305245.jpg -> ./Data/Train/Positive/Resized/1539169305245.jpg
+2019-10-30 13:34:54,921 - INFO - Resized: ./Data/Train/Positive/1539169315214.jpg -> ./Data/Train/Positive/Resized/1539169315214.jpg
+2019-10-30 13:34:54,923 - INFO - Resized: ./Data/Train/Positive/1539169322941.jpg -> ./Data/Train/Positive/Resized/1539169322941.jpg
+2019-10-30 13:34:54,924 - INFO - Resized: ./Data/Train/Positive/1539169330405.jpg -> ./Data/Train/Positive/Resized/1539169330405.jpg
+2019-10-30 13:34:54,928 - INFO - Resized: ./Data/Train/Positive/1539169345758.jpg -> ./Data/Train/Positive/Resized/1539169345758.jpg
+2019-10-30 13:34:54,930 - INFO - Resized: ./Data/Train/Positive/1539169352582.jpg -> ./Data/Train/Positive/Resized/1539169352582.jpg
+2019-10-30 13:34:54,933 - INFO - Resized: ./Data/Train/Positive/1539169359949.jpg -> ./Data/Train/Positive/Resized/1539169359949.jpg
+2019-10-30 13:34:54,934 - INFO - Resized: ./Data/Train/Positive/1539169364982.jpg -> ./Data/Train/Positive/Resized/1539169364982.jpg
+2019-10-30 13:34:54,937 - INFO - Resized: ./Data/Train/Positive/1539169374486.jpg -> ./Data/Train/Positive/Resized/1539169374486.jpg
+2019-10-30 13:34:54,938 - INFO - Resized: ./Data/Train/Positive/1539169456230.jpg -> ./Data/Train/Positive/Resized/1539169456230.jpg
+2019-10-30 13:34:54,940 - INFO - Resized: ./Data/Train/Positive/1539169465686.jpg -> ./Data/Train/Positive/Resized/1539169465686.jpg
+2019-10-30 13:34:54,943 - INFO - Resized: ./Data/Train/Positive/1539169482516.jpg -> ./Data/Train/Positive/Resized/1539169482516.jpg
+2019-10-30 13:34:54,944 - INFO - Resized: ./Data/Train/Positive/1539169487534.jpg -> ./Data/Train/Positive/Resized/1539169487534.jpg
+2019-10-30 13:34:54,947 - INFO - Resized: ./Data/Train/Positive/1539169496430.jpg -> ./Data/Train/Positive/Resized/1539169496430.jpg
+2019-10-30 13:34:54,950 - INFO - Resized: ./Data/Train/Positive/1539169524509.jpg -> ./Data/Train/Positive/Resized/1539169524509.jpg
+2019-10-30 13:34:54,951 - INFO - Resized: ./Data/Train/Positive/1539169534029.jpg -> ./Data/Train/Positive/Resized/1539169534029.jpg
+2019-10-30 13:34:54,953 - INFO - Resized: ./Data/Train/Positive/1539169540317.jpg -> ./Data/Train/Positive/Resized/1539169540317.jpg
+2019-10-30 13:34:54,956 - INFO - Resized: ./Data/Train/Positive/1539169546501.jpg -> ./Data/Train/Positive/Resized/1539169546501.jpg
+2019-10-30 13:34:54,957 - INFO - Resized: ./Data/Train/Positive/1539169553869.jpg -> ./Data/Train/Positive/Resized/1539169553869.jpg
+2019-10-30 13:34:54,960 - INFO - Resized: ./Data/Train/Positive/1539169571901.jpg -> ./Data/Train/Positive/Resized/1539169571901.jpg
+2019-10-30 13:34:54,960 - INFO - Resized: ./Data/Train/Positive/1539169578388.jpg -> ./Data/Train/Positive/Resized/1539169578388.jpg
+2019-10-30 13:34:54,963 - INFO - Resized: ./Data/Train/Positive/1539169588293.jpg -> ./Data/Train/Positive/Resized/1539169588293.jpg
+2019-10-30 13:34:54,966 - INFO - Resized: ./Data/Train/Positive/1539169596318.jpg -> ./Data/Train/Positive/Resized/1539169596318.jpg
+2019-10-30 13:34:54,967 - INFO - Resized: ./Data/Train/Positive/1539169602542.jpg -> ./Data/Train/Positive/Resized/1539169602542.jpg
+2019-10-30 13:34:54,970 - INFO - Resized: ./Data/Train/Positive/1539169607742.jpg -> ./Data/Train/Positive/Resized/1539169607742.jpg
+2019-10-30 13:34:54,971 - INFO - Resized: ./Data/Train/Positive/1539169613365.jpg -> ./Data/Train/Positive/Resized/1539169613365.jpg
+2019-10-30 13:34:54,973 - INFO - Resized: ./Data/Train/Positive/1539169627557.jpg -> ./Data/Train/Positive/Resized/1539169627557.jpg
+2019-10-30 13:34:54,976 - INFO - Resized: ./Data/Train/Positive/1539169649038.jpg -> ./Data/Train/Positive/Resized/1539169649038.jpg
+2019-10-30 13:34:54,979 - INFO - Resized: ./Data/Train/Positive/1539169657549.jpg -> ./Data/Train/Positive/Resized/1539169657549.jpg
+2019-10-30 13:34:54,982 - INFO - Resized: ./Data/Train/Positive/1539169677246.jpg -> ./Data/Train/Positive/Resized/1539169677246.jpg
+2019-10-30 13:34:54,983 - INFO - Resized: ./Data/Train/Positive/1539169683453.jpg -> ./Data/Train/Positive/Resized/1539169683453.jpg
+2019-10-30 13:34:54,986 - INFO - Resized: ./Data/Train/Positive/1539169693253.jpg -> ./Data/Train/Positive/Resized/1539169693253.jpg
+2019-10-30 13:34:54,987 - INFO - Resized: ./Data/Train/Positive/1539169709108.jpg -> ./Data/Train/Positive/Resized/1539169709108.jpg
+2019-10-30 13:34:54,990 - INFO - Resized: ./Data/Train/Positive/1539169715764.jpg -> ./Data/Train/Positive/Resized/1539169715764.jpg
+2019-10-30 13:34:54,992 - INFO - Resized: ./Data/Train/Positive/1539169722437.jpg -> ./Data/Train/Positive/Resized/1539169722437.jpg
+2019-10-30 13:34:54,993 - INFO - Resized: ./Data/Train/Positive/1539169733381.jpg -> ./Data/Train/Positive/Resized/1539169733381.jpg
+2019-10-30 13:34:54,996 - INFO - Resized: ./Data/Train/Positive/1539169744284.jpg -> ./Data/Train/Positive/Resized/1539169744284.jpg
+2019-10-30 13:34:54,999 - INFO - Resized: ./Data/Train/Positive/1539169750877.jpg -> ./Data/Train/Positive/Resized/1539169750877.jpg
+2019-10-30 13:34:55,000 - INFO - Resized: ./Data/Train/Positive/1539169760372.jpg -> ./Data/Train/Positive/Resized/1539169760372.jpg
+2019-10-30 13:34:55,002 - INFO - Resized: ./Data/Train/Positive/1539169768637.jpg -> ./Data/Train/Positive/Resized/1539169768637.jpg
+2019-10-30 13:34:55,003 - INFO - Resized: ./Data/Train/Positive/1539169780317.jpg -> ./Data/Train/Positive/Resized/1539169780317.jpg
+2019-10-30 13:34:55,006 - INFO - Resized: ./Data/Train/Positive/1539169790124.jpg -> ./Data/Train/Positive/Resized/1539169790124.jpg
+2019-10-30 13:34:55,007 - INFO - Resized: ./Data/Train/Positive/1539169799461.jpg -> ./Data/Train/Positive/Resized/1539169799461.jpg
+2019-10-30 13:34:55,015 - INFO - Resized: ./Data/Train/Positive/1539169806884.jpg -> ./Data/Train/Positive/Resized/1539169806884.jpg
+2019-10-30 13:34:55,020 - INFO - Resized: ./Data/Train/Positive/1539169813300.jpg -> ./Data/Train/Positive/Resized/1539169813300.jpg
+2019-10-30 13:34:55,032 - INFO - Resized: ./Data/Train/Positive/1539169856262.jpg -> ./Data/Train/Positive/Resized/1539169856262.jpg
+2019-10-30 13:34:55,036 - INFO - Resized: ./Data/Train/Positive/1539169862861.jpg -> ./Data/Train/Positive/Resized/1539169862861.jpg
+2019-10-30 13:34:55,039 - INFO - Resized: ./Data/Train/Positive/1539169871700.jpg -> ./Data/Train/Positive/Resized/1539169871700.jpg
+2019-10-30 13:34:55,042 - INFO - Resized: ./Data/Train/Positive/1539169879053.jpg -> ./Data/Train/Positive/Resized/1539169879053.jpg
+2019-10-30 13:34:55,045 - INFO - Resized: ./Data/Train/Positive/1539169886700.jpg -> ./Data/Train/Positive/Resized/1539169886700.jpg
+2019-10-30 13:34:55,046 - INFO - Resized: ./Data/Train/Positive/1539169920108.jpg -> ./Data/Train/Positive/Resized/1539169920108.jpg
+2019-10-30 13:34:55,049 - INFO - Resized: ./Data/Train/Positive/1539169935044.jpg -> ./Data/Train/Positive/Resized/1539169935044.jpg
+2019-10-30 13:34:55,051 - INFO - Resized: ./Data/Train/Positive/1539169940653.jpg -> ./Data/Train/Positive/Resized/1539169940653.jpg
+2019-10-30 13:34:55,052 - INFO - Resized: ./Data/Train/Positive/1539169949750.jpg -> ./Data/Train/Positive/Resized/1539169949750.jpg
+2019-10-30 13:34:55,055 - INFO - Resized: ./Data/Train/Positive/1539169955515.jpg -> ./Data/Train/Positive/Resized/1539169955515.jpg
+2019-10-30 13:34:55,056 - INFO - Resized: ./Data/Train/Positive/1539169963972.jpg -> ./Data/Train/Positive/Resized/1539169963972.jpg
+2019-10-30 13:34:55,059 - INFO - "Train/Positive/ Images Resize" ok
+2019-10-30 13:34:55,061 - INFO - "Train/Negative/ Images Resize" running...
+2019-10-30 13:34:55,069 - INFO - Resized: ./Data/Train/Negative/1.png -> ./Data/Train/Negative/Resized/1.png
+2019-10-30 13:34:55,091 - INFO - Resized: ./Data/Train/Negative/10.png -> ./Data/Train/Negative/Resized/10.png
+2019-10-30 13:34:55,111 - INFO - Resized: ./Data/Train/Negative/100.png -> ./Data/Train/Negative/Resized/100.png
+2019-10-30 13:34:55,124 - INFO - Resized: ./Data/Train/Negative/101.png -> ./Data/Train/Negative/Resized/101.png
+2019-10-30 13:34:55,147 - INFO - Resized: ./Data/Train/Negative/102.png -> ./Data/Train/Negative/Resized/102.png
+2019-10-30 13:34:55,164 - INFO - Resized: ./Data/Train/Negative/103.png -> ./Data/Train/Negative/Resized/103.png
+2019-10-30 13:34:55,187 - INFO - Resized: ./Data/Train/Negative/104.png -> ./Data/Train/Negative/Resized/104.png
+2019-10-30 13:34:55,191 - INFO - Resized: ./Data/Train/Negative/105.png -> ./Data/Train/Negative/Resized/105.png
+2019-10-30 13:34:55,214 - INFO - Resized: ./Data/Train/Negative/106.png -> ./Data/Train/Negative/Resized/106.png
+2019-10-30 13:34:55,236 - INFO - Resized: ./Data/Train/Negative/107.png -> ./Data/Train/Negative/Resized/107.png
+2019-10-30 13:34:55,259 - INFO - Resized: ./Data/Train/Negative/108.png -> ./Data/Train/Negative/Resized/108.png
+2019-10-30 13:34:55,282 - INFO - Resized: ./Data/Train/Negative/109.png -> ./Data/Train/Negative/Resized/109.png
+2019-10-30 13:34:55,303 - INFO - Resized: ./Data/Train/Negative/11.png -> ./Data/Train/Negative/Resized/11.png
+2019-10-30 13:34:55,326 - INFO - Resized: ./Data/Train/Negative/110.png -> ./Data/Train/Negative/Resized/110.png
+2019-10-30 13:34:55,351 - INFO - Resized: ./Data/Train/Negative/111.png -> ./Data/Train/Negative/Resized/111.png
+2019-10-30 13:34:55,361 - INFO - Resized: ./Data/Train/Negative/112.png -> ./Data/Train/Negative/Resized/112.png
+2019-10-30 13:34:55,384 - INFO - Resized: ./Data/Train/Negative/113.png -> ./Data/Train/Negative/Resized/113.png
+2019-10-30 13:34:55,407 - INFO - Resized: ./Data/Train/Negative/114.png -> ./Data/Train/Negative/Resized/114.png
+2019-10-30 13:34:55,430 - INFO - Resized: ./Data/Train/Negative/115.png -> ./Data/Train/Negative/Resized/115.png
+2019-10-30 13:34:55,436 - INFO - Resized: ./Data/Train/Negative/116.png -> ./Data/Train/Negative/Resized/116.png
+2019-10-30 13:34:55,438 - INFO - Resized: ./Data/Train/Negative/117.png -> ./Data/Train/Negative/Resized/117.png
+2019-10-30 13:34:55,460 - INFO - Resized: ./Data/Train/Negative/118.png -> ./Data/Train/Negative/Resized/118.png
+2019-10-30 13:34:55,482 - INFO - Resized: ./Data/Train/Negative/119.png -> ./Data/Train/Negative/Resized/119.png
+2019-10-30 13:34:55,503 - INFO - Resized: ./Data/Train/Negative/12.png -> ./Data/Train/Negative/Resized/12.png
+2019-10-30 13:34:55,513 - INFO - Resized: ./Data/Train/Negative/120.png -> ./Data/Train/Negative/Resized/120.png
+2019-10-30 13:34:55,529 - INFO - Resized: ./Data/Train/Negative/13.png -> ./Data/Train/Negative/Resized/13.png
+2019-10-30 13:34:55,545 - INFO - Resized: ./Data/Train/Negative/14.png -> ./Data/Train/Negative/Resized/14.png
+2019-10-30 13:34:55,576 - INFO - Resized: ./Data/Train/Negative/15.png -> ./Data/Train/Negative/Resized/15.png
+2019-10-30 13:34:55,592 - INFO - Resized: ./Data/Train/Negative/16.png -> ./Data/Train/Negative/Resized/16.png
+2019-10-30 13:34:55,608 - INFO - Resized: ./Data/Train/Negative/17.png -> ./Data/Train/Negative/Resized/17.png
+2019-10-30 13:34:55,638 - INFO - Resized: ./Data/Train/Negative/18.png -> ./Data/Train/Negative/Resized/18.png
+2019-10-30 13:34:55,654 - INFO - Resized: ./Data/Train/Negative/19.png -> ./Data/Train/Negative/Resized/19.png
+2019-10-30 13:34:55,670 - INFO - Resized: ./Data/Train/Negative/2.png -> ./Data/Train/Negative/Resized/2.png
+2019-10-30 13:34:55,670 - INFO - Resized: ./Data/Train/Negative/20.png -> ./Data/Train/Negative/Resized/20.png
+2019-10-30 13:34:55,686 - INFO - Resized: ./Data/Train/Negative/21.png -> ./Data/Train/Negative/Resized/21.png
+2019-10-30 13:34:55,701 - INFO - Resized: ./Data/Train/Negative/22.png -> ./Data/Train/Negative/Resized/22.png
+2019-10-30 13:34:55,733 - INFO - Resized: ./Data/Train/Negative/23.png -> ./Data/Train/Negative/Resized/23.png
+2019-10-30 13:34:55,733 - INFO - Resized: ./Data/Train/Negative/24.png -> ./Data/Train/Negative/Resized/24.png
+2019-10-30 13:34:55,763 - INFO - Resized: ./Data/Train/Negative/25.png -> ./Data/Train/Negative/Resized/25.png
+2019-10-30 13:34:55,779 - INFO - Resized: ./Data/Train/Negative/26.png -> ./Data/Train/Negative/Resized/26.png
+2019-10-30 13:34:55,811 - INFO - Resized: ./Data/Train/Negative/27.png -> ./Data/Train/Negative/Resized/27.png
+2019-10-30 13:34:55,826 - INFO - Resized: ./Data/Train/Negative/28.png -> ./Data/Train/Negative/Resized/28.png
+2019-10-30 13:34:55,858 - INFO - Resized: ./Data/Train/Negative/29.png -> ./Data/Train/Negative/Resized/29.png
+2019-10-30 13:34:55,872 - INFO - Resized: ./Data/Train/Negative/3.png -> ./Data/Train/Negative/Resized/3.png
+2019-10-30 13:34:55,904 - INFO - Resized: ./Data/Train/Negative/30.png -> ./Data/Train/Negative/Resized/30.png
+2019-10-30 13:34:55,920 - INFO - Resized: ./Data/Train/Negative/31.png -> ./Data/Train/Negative/Resized/31.png
+2019-10-30 13:34:55,951 - INFO - Resized: ./Data/Train/Negative/32.png -> ./Data/Train/Negative/Resized/32.png
+2019-10-30 13:34:55,967 - INFO - Resized: ./Data/Train/Negative/33.png -> ./Data/Train/Negative/Resized/33.png
+2019-10-30 13:34:55,967 - INFO - Resized: ./Data/Train/Negative/34.png -> ./Data/Train/Negative/Resized/34.png
+2019-10-30 13:34:55,983 - INFO - Resized: ./Data/Train/Negative/35.png -> ./Data/Train/Negative/Resized/35.png
+2019-10-30 13:34:55,997 - INFO - Resized: ./Data/Train/Negative/36.png -> ./Data/Train/Negative/Resized/36.png
+2019-10-30 13:34:56,029 - INFO - Resized: ./Data/Train/Negative/37.png -> ./Data/Train/Negative/Resized/37.png
+2019-10-30 13:34:56,045 - INFO - Resized: ./Data/Train/Negative/38.png -> ./Data/Train/Negative/Resized/38.png
+2019-10-30 13:34:56,075 - INFO - Resized: ./Data/Train/Negative/39.png -> ./Data/Train/Negative/Resized/39.png
+2019-10-30 13:34:56,092 - INFO - Resized: ./Data/Train/Negative/4.png -> ./Data/Train/Negative/Resized/4.png
+2019-10-30 13:34:56,122 - INFO - Resized: ./Data/Train/Negative/40.png -> ./Data/Train/Negative/Resized/40.png
+2019-10-30 13:34:56,138 - INFO - Resized: ./Data/Train/Negative/41.png -> ./Data/Train/Negative/Resized/41.png
+2019-10-30 13:34:56,170 - INFO - Resized: ./Data/Train/Negative/42.png -> ./Data/Train/Negative/Resized/42.png
+2019-10-30 13:34:56,186 - INFO - Resized: ./Data/Train/Negative/43.png -> ./Data/Train/Negative/Resized/43.png
+2019-10-30 13:34:56,217 - INFO - Resized: ./Data/Train/Negative/44.png -> ./Data/Train/Negative/Resized/44.png
+2019-10-30 13:34:56,233 - INFO - Resized: ./Data/Train/Negative/45.png -> ./Data/Train/Negative/Resized/45.png
+2019-10-30 13:34:56,247 - INFO - Resized: ./Data/Train/Negative/46.png -> ./Data/Train/Negative/Resized/46.png
+2019-10-30 13:34:56,263 - INFO - Resized: ./Data/Train/Negative/47.png -> ./Data/Train/Negative/Resized/47.png
+2019-10-30 13:34:56,279 - INFO - Resized: ./Data/Train/Negative/48.png -> ./Data/Train/Negative/Resized/48.png
+2019-10-30 13:34:56,295 - INFO - Resized: ./Data/Train/Negative/49.png -> ./Data/Train/Negative/Resized/49.png
+2019-10-30 13:34:56,311 - INFO - Resized: ./Data/Train/Negative/5.png -> ./Data/Train/Negative/Resized/5.png
+2019-10-30 13:34:56,325 - INFO - Resized: ./Data/Train/Negative/50.png -> ./Data/Train/Negative/Resized/50.png
+2019-10-30 13:34:56,358 - INFO - Resized: ./Data/Train/Negative/51.png -> ./Data/Train/Negative/Resized/51.png
+2019-10-30 13:34:56,372 - INFO - Resized: ./Data/Train/Negative/52.png -> ./Data/Train/Negative/Resized/52.png
+2019-10-30 13:34:56,404 - INFO - Resized: ./Data/Train/Negative/53.png -> ./Data/Train/Negative/Resized/53.png
+2019-10-30 13:34:56,420 - INFO - Resized: ./Data/Train/Negative/54.png -> ./Data/Train/Negative/Resized/54.png
+2019-10-30 13:34:56,436 - INFO - Resized: ./Data/Train/Negative/55.png -> ./Data/Train/Negative/Resized/55.png
+2019-10-30 13:34:56,467 - INFO - Resized: ./Data/Train/Negative/56.png -> ./Data/Train/Negative/Resized/56.png
+2019-10-30 13:34:56,483 - INFO - Resized: ./Data/Train/Negative/57.png -> ./Data/Train/Negative/Resized/57.png
+2019-10-30 13:34:56,497 - INFO - Resized: ./Data/Train/Negative/58.png -> ./Data/Train/Negative/Resized/58.png
+2019-10-30 13:34:56,529 - INFO - Resized: ./Data/Train/Negative/59.png -> ./Data/Train/Negative/Resized/59.png
+2019-10-30 13:34:56,545 - INFO - Resized: ./Data/Train/Negative/6.png -> ./Data/Train/Negative/Resized/6.png
+2019-10-30 13:34:56,545 - INFO - Resized: ./Data/Train/Negative/60.png -> ./Data/Train/Negative/Resized/60.png
+2019-10-30 13:34:56,561 - INFO - Resized: ./Data/Train/Negative/61.png -> ./Data/Train/Negative/Resized/61.png
+2019-10-30 13:34:56,575 - INFO - Resized: ./Data/Train/Negative/62.png -> ./Data/Train/Negative/Resized/62.png
+2019-10-30 13:34:56,608 - INFO - Resized: ./Data/Train/Negative/63.png -> ./Data/Train/Negative/Resized/63.png
+2019-10-30 13:34:56,622 - INFO - Resized: ./Data/Train/Negative/64.png -> ./Data/Train/Negative/Resized/64.png
+2019-10-30 13:34:56,654 - INFO - Resized: ./Data/Train/Negative/65.png -> ./Data/Train/Negative/Resized/65.png
+2019-10-30 13:34:56,670 - INFO - Resized: ./Data/Train/Negative/66.png -> ./Data/Train/Negative/Resized/66.png
+2019-10-30 13:34:56,700 - INFO - Resized: ./Data/Train/Negative/67.png -> ./Data/Train/Negative/Resized/67.png
+2019-10-30 13:34:56,700 - INFO - Resized: ./Data/Train/Negative/68.png -> ./Data/Train/Negative/Resized/68.png
+2019-10-30 13:34:56,733 - INFO - Resized: ./Data/Train/Negative/69.png -> ./Data/Train/Negative/Resized/69.png
+2019-10-30 13:34:56,747 - INFO - Resized: ./Data/Train/Negative/7.png -> ./Data/Train/Negative/Resized/7.png
+2019-10-30 13:34:56,763 - INFO - Resized: ./Data/Train/Negative/70.png -> ./Data/Train/Negative/Resized/70.png
+2019-10-30 13:34:56,795 - INFO - Resized: ./Data/Train/Negative/71.png -> ./Data/Train/Negative/Resized/71.png
+2019-10-30 13:34:56,811 - INFO - Resized: ./Data/Train/Negative/72.png -> ./Data/Train/Negative/Resized/72.png
+2019-10-30 13:34:56,842 - INFO - Resized: ./Data/Train/Negative/73.png -> ./Data/Train/Negative/Resized/73.png
+2019-10-30 13:34:56,858 - INFO - Resized: ./Data/Train/Negative/74.png -> ./Data/Train/Negative/Resized/74.png
+2019-10-30 13:34:56,858 - INFO - Resized: ./Data/Train/Negative/75.png -> ./Data/Train/Negative/Resized/75.png
+2019-10-30 13:34:56,888 - INFO - Resized: ./Data/Train/Negative/76.png -> ./Data/Train/Negative/Resized/76.png
+2019-10-30 13:34:56,904 - INFO - Resized: ./Data/Train/Negative/77.png -> ./Data/Train/Negative/Resized/77.png
+2019-10-30 13:34:56,936 - INFO - Resized: ./Data/Train/Negative/78.png -> ./Data/Train/Negative/Resized/78.png
+2019-10-30 13:34:56,936 - INFO - Resized: ./Data/Train/Negative/79.png -> ./Data/Train/Negative/Resized/79.png
+2019-10-30 13:34:56,950 - INFO - Resized: ./Data/Train/Negative/8.png -> ./Data/Train/Negative/Resized/8.png
+2019-10-30 13:34:56,973 - INFO - Resized: ./Data/Train/Negative/80.png -> ./Data/Train/Negative/Resized/80.png
+2019-10-30 13:34:56,989 - INFO - Resized: ./Data/Train/Negative/81.png -> ./Data/Train/Negative/Resized/81.png
+2019-10-30 13:34:57,019 - INFO - Resized: ./Data/Train/Negative/82.png -> ./Data/Train/Negative/Resized/82.png
+2019-10-30 13:34:57,036 - INFO - Resized: ./Data/Train/Negative/83.png -> ./Data/Train/Negative/Resized/83.png
+2019-10-30 13:34:57,066 - INFO - Resized: ./Data/Train/Negative/84.png -> ./Data/Train/Negative/Resized/84.png
+2019-10-30 13:34:57,082 - INFO - Resized: ./Data/Train/Negative/85.png -> ./Data/Train/Negative/Resized/85.png
+2019-10-30 13:34:57,098 - INFO - Resized: ./Data/Train/Negative/86.png -> ./Data/Train/Negative/Resized/86.png
+2019-10-30 13:34:57,098 - INFO - Resized: ./Data/Train/Negative/87.png -> ./Data/Train/Negative/Resized/87.png
+2019-10-30 13:34:57,098 - INFO - Resized: ./Data/Train/Negative/88.png -> ./Data/Train/Negative/Resized/88.png
+2019-10-30 13:34:57,098 - INFO - Resized: ./Data/Train/Negative/89.png -> ./Data/Train/Negative/Resized/89.png
+2019-10-30 13:34:57,128 - INFO - Resized: ./Data/Train/Negative/9.png -> ./Data/Train/Negative/Resized/9.png
+2019-10-30 13:34:57,128 - INFO - Resized: ./Data/Train/Negative/90.png -> ./Data/Train/Negative/Resized/90.png
+2019-10-30 13:34:57,161 - INFO - Resized: ./Data/Train/Negative/91.png -> ./Data/Train/Negative/Resized/91.png
+2019-10-30 13:34:57,161 - INFO - Resized: ./Data/Train/Negative/92.png -> ./Data/Train/Negative/Resized/92.png
+2019-10-30 13:34:57,176 - INFO - Resized: ./Data/Train/Negative/93.png -> ./Data/Train/Negative/Resized/93.png
+2019-10-30 13:34:57,207 - INFO - Resized: ./Data/Train/Negative/94.png -> ./Data/Train/Negative/Resized/94.png
+2019-10-30 13:34:57,223 - INFO - Resized: ./Data/Train/Negative/95.png -> ./Data/Train/Negative/Resized/95.png
+2019-10-30 13:34:57,253 - INFO - Resized: ./Data/Train/Negative/96.png -> ./Data/Train/Negative/Resized/96.png
+2019-10-30 13:34:57,269 - INFO - Resized: ./Data/Train/Negative/97.png -> ./Data/Train/Negative/Resized/97.png
+2019-10-30 13:34:57,286 - INFO - Resized: ./Data/Train/Negative/98.png -> ./Data/Train/Negative/Resized/98.png
+2019-10-30 13:34:57,316 - INFO - Resized: ./Data/Train/Negative/99.png -> ./Data/Train/Negative/Resized/99.png
+2019-10-30 13:34:57,316 - INFO - "Train/Negative/ Images Resize" ok
+2019-10-30 13:34:57,316 - INFO - "All Image Resize" ok
+2019-10-30 13:34:57,316 - INFO - "Format Resized Images" running...
+2019-10-30 13:34:57,316 - INFO - "Format Resized Images" ok
+2019-10-30 13:34:57,316 - INFO - "Save Dataset" running...
+2019-10-30 13:34:57,332 - INFO - "Save Dataset" ok
+2019-10-30 13:34:57,332 - INFO - Success
+2019-10-30 15:08:37,859 - INFO - Starting...
+2019-10-30 15:08:37,873 - INFO - "Read Dataset" running...
+2019-10-30 15:08:37,963 - INFO - "Read Dataset" ok
+2019-10-30 15:08:37,968 - INFO - Success
+2019-10-30 15:23:51,933 - INFO - Starting...
+2019-10-30 15:23:51,933 - INFO - "Read Dataset" running...
+2019-10-30 15:23:51,933 - INFO - "Read Dataset" ok
+2019-10-30 15:23:51,949 - INFO - Success
+2019-10-30 15:24:14,748 - INFO - Starting...
+2019-10-30 15:24:14,748 - INFO - "Read Dataset" running...
+2019-10-30 15:24:14,763 - INFO - "Read Dataset" ok
+2019-10-30 15:24:14,763 - INFO - Success
+2019-10-30 15:25:28,279 - INFO - Starting...
+2019-10-30 15:25:28,279 - INFO - "Read Dataset" running...
+2019-10-30 15:25:28,295 - INFO - "Read Dataset" ok
+2019-10-30 15:25:52,563 - INFO - Starting...
+2019-10-30 15:25:52,563 - INFO - "Read Dataset" running...
+2019-10-30 15:25:52,563 - INFO - "Read Dataset" ok
+2019-10-30 15:25:52,594 - INFO - Success
+2019-10-30 15:31:55,829 - INFO - Starting...
+2019-10-30 15:31:55,829 - INFO - "Read Dataset" running...
+2019-10-30 15:31:55,829 - INFO - "Read Dataset" ok
+2019-10-30 15:31:55,845 - INFO - "Get Educated Model" running...
+2019-10-30 15:31:55,860 - INFO - "Educate" running...
+2019-10-30 15:31:55,860 - INFO - "Get Model" running...
+2019-10-30 15:33:37,196 - INFO - Starting...
+2019-10-30 15:33:37,196 - INFO - "Read Dataset" running...
+2019-10-30 15:33:37,212 - INFO - "Read Dataset" ok
+2019-10-30 15:33:37,227 - INFO - "Get Educated Model" running...
+2019-10-30 15:33:37,227 - INFO - "Educate" running...
+2019-10-30 15:33:37,227 - INFO - "Get Model" running...
+2019-10-30 15:33:59,959 - INFO - Starting...
+2019-10-30 15:33:59,959 - INFO - "Read Dataset" running...
+2019-10-30 15:33:59,970 - INFO - "Read Dataset" ok
+2019-10-30 15:33:59,997 - INFO - "Get Educated Model" running...
+2019-10-30 15:33:59,997 - INFO - "Educate" running...
+2019-10-30 15:33:59,998 - INFO - "Get Model" running...
+2019-10-30 15:34:00,079 - INFO - "Get Model" ok
+2019-10-30 15:34:05,798 - INFO - "Educate" ok
+2019-10-30 15:34:05,798 - INFO - "Get Educated Model" ok
+2019-10-30 15:34:05,798 - INFO - Success
+2019-10-30 15:35:16,378 - INFO - Starting...
+2019-10-30 15:35:16,378 - INFO - "Read Dataset" running...
+2019-10-30 15:35:16,378 - INFO - "Read Dataset" ok
+2019-10-30 15:35:16,410 - INFO - "Get Educated Model" running...
+2019-10-30 15:35:16,847 - INFO - "Get Educated Model" ok
+2019-10-30 15:35:16,847 - INFO - "Train Set Prediction" running...
+2019-10-30 15:35:17,300 - INFO - "Train Set Prediction" ok
+2019-10-30 15:35:17,300 - INFO - "Test Set Prediction" running...
+2019-10-30 15:35:17,332 - INFO - "Test Set Prediction" ok
+2019-10-30 15:35:17,332 - INFO - Success
+2019-10-30 15:35:58,879 - INFO - Starting...
+2019-10-30 15:35:58,879 - INFO - "Read Dataset" running...
+2019-10-30 15:35:58,879 - INFO - "Read Dataset" ok
+2019-10-30 15:35:58,910 - INFO - "Get Educated Model" running...
+2019-10-30 15:35:59,316 - INFO - "Get Educated Model" ok
+2019-10-30 15:35:59,316 - INFO - "Test Set Prediction" running...
+2019-10-30 15:35:59,391 - INFO - "Test Set Prediction" ok
+2019-10-30 15:36:36,695 - INFO - Starting...
+2019-10-30 15:36:36,695 - INFO - "Read Dataset" running...
+2019-10-30 15:36:36,695 - INFO - "Read Dataset" ok
+2019-10-30 15:36:36,727 - INFO - "Get Educated Model" running...
+2019-10-30 15:36:37,179 - INFO - "Get Educated Model" ok
+2019-10-30 15:36:37,179 - INFO - "Test Set Prediction" running...
+2019-10-30 15:36:37,258 - INFO - "Test Set Prediction" ok
+2019-10-30 15:36:57,013 - INFO - Starting...
+2019-10-30 15:36:57,013 - INFO - "Read Dataset" running...
+2019-10-30 15:36:57,029 - INFO - "Read Dataset" ok
+2019-10-30 15:36:57,044 - INFO - "Get Educated Model" running...
+2019-10-30 15:36:57,466 - INFO - "Get Educated Model" ok
+2019-10-30 15:36:57,466 - INFO - "Test Set Prediction" running...
+2019-10-30 15:36:57,542 - INFO - "Test Set Prediction" ok
+2019-10-30 15:37:10,654 - INFO - Starting...
+2019-10-30 15:37:10,655 - INFO - "Read Dataset" running...
+2019-10-30 15:37:10,664 - INFO - "Read Dataset" ok
+2019-10-30 15:37:10,687 - INFO - "Get Educated Model" running...
+2019-10-30 15:37:11,110 - INFO - "Get Educated Model" ok
+2019-10-30 15:37:11,110 - INFO - "Test Set Prediction" running...
+2019-10-30 15:37:11,183 - INFO - "Test Set Prediction" ok
+2019-10-30 15:37:25,083 - INFO - Starting...
+2019-10-30 15:37:25,083 - INFO - "Read Dataset" running...
+2019-10-30 15:37:25,083 - INFO - "Read Dataset" ok
+2019-10-30 15:37:25,114 - INFO - "Get Educated Model" running...
+2019-10-30 15:37:25,521 - INFO - "Get Educated Model" ok
+2019-10-30 15:37:25,521 - INFO - "Test Set Prediction" running...
+2019-10-30 15:37:25,599 - INFO - "Test Set Prediction" ok
+2019-10-30 15:37:38,226 - INFO - Starting...
+2019-10-30 15:37:38,226 - INFO - "Read Dataset" running...
+2019-10-30 15:37:38,236 - INFO - "Read Dataset" ok
+2019-10-30 15:37:38,260 - INFO - "Get Educated Model" running...
+2019-10-30 15:37:38,690 - INFO - "Get Educated Model" ok
+2019-10-30 15:37:38,690 - INFO - "Test Set Prediction" running...
+2019-10-30 15:37:38,775 - INFO - "Test Set Prediction" ok
+2019-10-30 15:37:51,643 - INFO - Starting...
+2019-10-30 15:37:51,643 - INFO - "Read Dataset" running...
+2019-10-30 15:37:51,659 - INFO - "Read Dataset" ok
+2019-10-30 15:37:51,674 - INFO - "Get Educated Model" running...
+2019-10-30 15:37:52,096 - INFO - "Get Educated Model" ok
+2019-10-30 15:37:52,096 - INFO - "Test Set Prediction" running...
+2019-10-30 15:37:52,190 - INFO - "Test Set Prediction" ok
+2019-10-30 15:38:25,686 - INFO - Starting...
+2019-10-30 15:38:25,686 - INFO - "Read Dataset" running...
+2019-10-30 15:38:25,695 - INFO - "Read Dataset" ok
+2019-10-30 15:38:25,717 - INFO - "Get Educated Model" running...
+2019-10-30 15:38:26,133 - INFO - "Get Educated Model" ok
+2019-10-30 15:38:26,133 - INFO - "Test Set Prediction" running...
+2019-10-30 15:38:26,201 - INFO - "Test Set Prediction" ok
+2019-10-30 15:38:57,635 - INFO - Starting...
+2019-10-30 15:38:57,635 - INFO - "Read Dataset" running...
+2019-10-30 15:38:57,635 - INFO - "Read Dataset" ok
+2019-10-30 15:38:57,658 - INFO - "Get Educated Model" running...
+2019-10-30 15:38:58,074 - INFO - "Get Educated Model" ok
+2019-10-30 15:38:58,074 - INFO - "Test Set Prediction" running...
+2019-10-30 15:38:58,143 - INFO - "Test Set Prediction" ok
+2019-10-30 15:39:21,539 - INFO - Starting...
+2019-10-30 15:39:21,539 - INFO - "Read Dataset" running...
+2019-10-30 15:39:21,539 - INFO - "Read Dataset" ok
+2019-10-30 15:39:21,570 - INFO - "Get Educated Model" running...
+2019-10-30 15:39:21,976 - INFO - "Get Educated Model" ok
+2019-10-30 15:39:21,976 - INFO - "Test Set Prediction" running...
+2019-10-30 15:39:22,054 - INFO - "Test Set Prediction" ok
+2019-10-30 15:39:45,843 - INFO - Starting...
+2019-10-30 15:39:45,843 - INFO - "Read Dataset" running...
+2019-10-30 15:39:45,858 - INFO - "Read Dataset" ok
+2019-10-30 15:39:45,874 - INFO - "Get Educated Model" running...
+2019-10-30 15:39:46,296 - INFO - "Get Educated Model" ok
+2019-10-30 15:39:46,296 - INFO - "Test Set Prediction" running...
+2019-10-30 15:39:46,358 - INFO - "Test Set Prediction" ok
+2019-10-30 15:40:36,107 - INFO - Starting...
+2019-10-30 15:40:36,107 - INFO - "Read Dataset" running...
+2019-10-30 15:40:36,107 - INFO - "Read Dataset" ok
+2019-10-30 15:40:36,145 - INFO - "Get Educated Model" running...
+2019-10-30 15:40:36,593 - INFO - "Get Educated Model" ok
+2019-10-30 15:40:36,593 - INFO - "Test Set Prediction" running...
+2019-10-30 15:40:36,677 - INFO - "Test Set Prediction" ok
+2019-10-30 15:41:10,250 - INFO - Starting...
+2019-10-30 15:41:10,250 - INFO - "Read Dataset" running...
+2019-10-30 15:41:10,261 - INFO - "Read Dataset" ok
+2019-10-30 15:41:10,287 - INFO - "Get Educated Model" running...
+2019-10-30 15:41:10,767 - INFO - "Get Educated Model" ok
+2019-10-30 15:41:10,767 - INFO - "Test Set Prediction" running...
+2019-10-30 15:41:10,845 - INFO - "Test Set Prediction" ok
+2019-10-30 15:41:32,018 - INFO - Starting...
+2019-10-30 15:41:32,018 - INFO - "Read Dataset" running...
+2019-10-30 15:41:32,033 - INFO - "Read Dataset" ok
+2019-10-30 15:41:32,064 - INFO - "Get Educated Model" running...
+2019-10-30 15:41:32,471 - INFO - "Get Educated Model" ok
+2019-10-30 15:41:32,471 - INFO - "Test Set Prediction" running...
+2019-10-30 15:42:39,721 - INFO - Starting...
+2019-10-30 15:42:39,721 - INFO - "Read Dataset" running...
+2019-10-30 15:42:39,721 - INFO - "Read Dataset" ok
+2019-10-30 15:42:39,752 - INFO - "Get Educated Model" running...
+2019-10-30 15:42:40,159 - INFO - "Get Educated Model" ok
+2019-10-30 15:42:40,159 - INFO - "Test Set Prediction" running...
+2019-10-30 15:42:40,222 - INFO - "Test Set Prediction" ok
+2019-10-30 15:42:57,317 - INFO - Starting...
+2019-10-30 15:42:57,317 - INFO - "Read Dataset" running...
+2019-10-30 15:42:57,333 - INFO - "Read Dataset" ok
+2019-10-30 15:42:57,348 - INFO - "Get Educated Model" running...
+2019-10-30 15:42:57,754 - INFO - "Get Educated Model" ok
+2019-10-30 15:42:57,754 - INFO - "Test Set Prediction" running...
+2019-10-30 15:42:57,832 - INFO - "Test Set Prediction" ok
+2019-10-30 15:43:44,868 - INFO - Starting...
+2019-10-30 15:43:44,868 - INFO - "Read Dataset" running...
+2019-10-30 15:43:44,880 - INFO - "Read Dataset" ok
+2019-10-30 15:43:44,904 - INFO - "Get Educated Model" running...
+2019-10-30 15:43:45,343 - INFO - "Get Educated Model" ok
+2019-10-30 15:43:45,343 - INFO - "Test Set Prediction" running...
+2019-10-30 15:43:45,425 - INFO - "Test Set Prediction" ok
+2019-10-30 15:44:26,770 - INFO - Starting...
+2019-10-30 15:44:26,770 - INFO - "Read Dataset" running...
+2019-10-30 15:44:26,785 - INFO - "Read Dataset" ok
+2019-10-30 15:44:26,801 - INFO - "Get Educated Model" running...
+2019-10-30 15:44:27,207 - INFO - "Get Educated Model" ok
+2019-10-30 15:44:27,207 - INFO - "Test Set Prediction" running...
+2019-10-30 15:44:27,285 - INFO - "Test Set Prediction" ok
+2019-10-30 15:44:57,204 - INFO - Starting...
+2019-10-30 15:44:57,204 - INFO - "Read Dataset" running...
+2019-10-30 15:44:57,220 - INFO - "Read Dataset" ok
+2019-10-30 15:44:57,236 - INFO - "Get Educated Model" running...
+2019-10-30 15:44:57,642 - INFO - "Get Educated Model" ok
+2019-10-30 15:44:57,642 - INFO - "Test Set Prediction" running...
+2019-10-30 15:44:57,720 - INFO - "Test Set Prediction" ok
+2019-10-30 15:46:21,705 - INFO - Starting...
+2019-10-30 15:46:21,705 - INFO - "Read Dataset" running...
+2019-10-30 15:46:21,720 - INFO - "Read Dataset" ok
+2019-10-30 15:46:21,736 - INFO - "Get Educated Model" running...
+2019-10-30 15:46:22,142 - INFO - "Get Educated Model" ok
+2019-10-30 15:46:22,142 - INFO - "Test Set Prediction" running...
+2019-10-30 15:46:22,220 - INFO - "Test Set Prediction" ok
+2019-10-30 15:47:03,725 - INFO - Starting...
+2019-10-30 15:47:03,725 - INFO - "Read Dataset" running...
+2019-10-30 15:47:03,734 - INFO - "Read Dataset" ok
+2019-10-30 15:47:03,760 - INFO - "Get Educated Model" running...
+2019-10-30 15:47:04,211 - INFO - "Get Educated Model" ok
+2019-10-30 15:47:04,212 - INFO - "Train Set Prediction" running...
+2019-10-30 15:47:04,677 - INFO - "Train Set Prediction" ok
+2019-10-30 15:47:04,677 - INFO - "Test Set Prediction" running...
+2019-10-30 15:47:04,708 - INFO - "Test Set Prediction" ok
+2019-10-30 15:47:04,708 - INFO - Success
+2019-10-30 15:47:21,861 - INFO - Starting...
+2019-10-30 15:47:21,861 - INFO - "Read Dataset" running...
+2019-10-30 15:47:21,861 - INFO - "Read Dataset" ok
+2019-10-30 15:47:21,893 - INFO - "Get Educated Model" running...
+2019-10-30 15:47:21,893 - INFO - "Educate" running...
+2019-10-30 15:47:21,893 - INFO - "Get Model" running...
+2019-10-30 15:47:21,971 - INFO - "Get Model" ok
+2019-10-30 15:47:27,623 - INFO - "Educate" ok
+2019-10-30 15:47:27,623 - INFO - "Get Educated Model" ok
+2019-10-30 15:47:27,623 - INFO - "Train Set Prediction" running...
+2019-10-30 15:47:28,594 - INFO - "Train Set Prediction" ok
+2019-10-30 15:47:28,594 - INFO - "Test Set Prediction" running...
+2019-10-30 15:47:28,607 - INFO - "Test Set Prediction" ok
+2019-10-30 15:47:28,608 - INFO - Success
+2019-10-30 15:48:30,595 - INFO - Starting...
+2019-10-30 15:48:30,595 - INFO - "Read Dataset" running...
+2019-10-30 15:48:30,611 - INFO - "Read Dataset" ok
+2019-10-30 15:48:30,626 - INFO - "Get Educated Model" running...
+2019-10-30 15:48:31,033 - INFO - "Get Educated Model" ok
+2019-10-30 15:48:31,033 - INFO - "Train Set Prediction" running...
+2019-10-30 15:48:31,501 - INFO - "Train Set Prediction" ok
+2019-10-30 15:48:31,501 - INFO - "Test Set Prediction" running...
+2019-10-30 15:48:31,533 - INFO - "Test Set Prediction" ok
+2019-10-30 15:48:31,533 - INFO - Success
+2019-10-30 15:49:16,972 - INFO - Starting...
+2019-10-30 15:49:16,973 - INFO - "Read Dataset" running...
+2019-10-30 15:49:16,981 - INFO - "Read Dataset" ok
+2019-10-30 15:49:17,006 - INFO - "Get Educated Model" running...
+2019-10-30 15:49:17,006 - INFO - "Educate" running...
+2019-10-30 15:49:17,006 - INFO - "Get Model" running...
+2019-10-30 15:49:17,082 - INFO - "Get Model" ok
+2019-10-30 15:49:22,655 - INFO - "Educate" ok
+2019-10-30 15:49:22,656 - INFO - "Get Educated Model" ok
+2019-10-30 15:49:22,656 - INFO - "Train Set Prediction" running...
+2019-10-30 15:49:23,640 - INFO - "Train Set Prediction" ok
+2019-10-30 15:49:23,641 - INFO - "Test Set Prediction" running...
+2019-10-30 15:49:23,651 - INFO - "Test Set Prediction" ok
+2019-10-30 15:49:23,652 - INFO - Success
+2019-10-30 15:49:51,876 - INFO - Starting...
+2019-10-30 15:49:51,876 - INFO - "Read Dataset" running...
+2019-10-30 15:49:51,876 - INFO - "Read Dataset" ok
+2019-10-30 15:49:51,907 - INFO - "Get Educated Model" running...
+2019-10-30 15:49:52,345 - INFO - "Get Educated Model" ok
+2019-10-30 15:49:52,345 - INFO - "Train Set Prediction" running...
+2019-10-30 15:49:52,817 - INFO - "Train Set Prediction" ok
+2019-10-30 15:49:52,817 - INFO - "Test Set Prediction" running...
+2019-10-30 15:49:52,847 - INFO - "Test Set Prediction" ok
+2019-10-30 15:49:52,847 - INFO - Success
+2019-10-30 15:50:24,924 - INFO - Starting...
+2019-10-30 15:50:24,924 - INFO - "Read Dataset" running...
+2019-10-30 15:50:24,933 - INFO - "Read Dataset" ok
+2019-10-30 15:50:24,958 - INFO - "Get Educated Model" running...
+2019-10-30 15:50:24,958 - INFO - "Educate" running...
+2019-10-30 15:50:24,959 - INFO - "Get Model" running...
+2019-10-30 15:50:25,038 - INFO - "Get Model" ok
+2019-10-30 15:50:37,815 - INFO - "Educate" ok
+2019-10-30 15:50:37,815 - INFO - "Get Educated Model" ok
+2019-10-30 15:50:37,816 - INFO - "Train Set Prediction" running...
+2019-10-30 15:50:38,772 - INFO - "Train Set Prediction" ok
+2019-10-30 15:50:38,772 - INFO - "Test Set Prediction" running...
+2019-10-30 15:50:38,788 - INFO - "Test Set Prediction" ok
+2019-10-30 15:50:38,788 - INFO - Success
