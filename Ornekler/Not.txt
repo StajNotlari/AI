@@ -1,0 +1,13 @@
+2-tabelaTanima 													2								73,05								75,59							
+2-tabelaTanima 													10								94,64								88,95
+
+3-tableaTanimaDerin												10								68,63								78.70	
+
+4-tabelaTanimaDerinCNN											5								97,87								91,96
+
+5-tabelaTanimaDataAugDropoutBatchNorm							5								67,49								81,27
+5-tabelaTanimaDataAugDropoutBatchNorm (Dropout: 0,75)			25								92,73								21,73
+5-tabelaTanimaDataAugDropoutBatchNorm (Dropout: 0,5)			25								99,59								24,69
+
+6-tabelaTanimaDataAugDropoutBatchNorm							5								69,62								65,96
+6-tabelaTanimaDataAugDropoutBatchNorm							10								83.75								12,78
