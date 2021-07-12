@@ -21,7 +21,6 @@ numLabels = len(np.unique(trainY))
 trainY = to_categorical(trainY, numLabels)
 testY = to_categorical(testY, numLabels)
 
-
 model = Sequential()
 
 model.add(InputLayer(input_shape=(32, 32, 3)))
@@ -32,6 +31,6 @@ model.add(Dense(numLabels, activation='softmax'))
 optimizer = Adam(lr=1e-3)
 
 model.compile(optimizer=optimizer, loss='categorical_crossentropy', metrics=['accuracy'])
-model.fit(x=trainX, y=trainY, epochs=10, batch_size=128)
+model.fit(x=trainX, y=trainY, epochs=2, batch_size=128)
 result = model.evaluate(x=testX, y=testY)
 print('\n\nAccuracy:', result[1])
